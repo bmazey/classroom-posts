@@ -1,0 +1,1779 @@
+{
+  "version": 1,
+  "name": "AP Computer Science: A",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomc7f937e1@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/zpq-hxqz-hzn",
+  "courseFolder": {
+    "id": "19GXEzUdFHtlSPsRbVQ89Jdhz8G8A3W7KlLGx9apmANgdLJj4eeakloWJFHKfaQDlFUQJ9YqD",
+    "name": "AP Computer Science: A",
+    "openUrl": "https://drive.google.com/drive/folders/19GXEzUdFHtlSPsRbVQ89Jdhz8G8A3W7KlLGx9apmANgdLJj4eeakloWJFHKfaQDlFUQJ9YqD"
+  },
+  "courseState": "ACTIVE",
+  "owner": {
+    "name": {
+      "fullName": "Brandon Mazey"
+    },
+    "emailAddress": "mazey.b@stsaviour.org"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "Maricar Erlano"
+      },
+      "emailAddress": "merlano@stsaviour.org"
+    },
+    "guardians": [{
+      "invitedEmailAddress": "idea3ime@gmail.com"
+    }]
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "Erika Rodrigues"
+      },
+      "emailAddress": "erodrigues@stsaviour.org"
+    },
+    "guardians": [{
+      "guardianProfile": {
+        "name": {
+          "fullName": "Alex Rodrigues"
+        },
+        "emailAddress": "farraponyc@gmail.com"
+      }
+    }, {
+      "guardianProfile": {
+        "name": {
+          "fullName": "Katrina Rodrigues"
+        },
+        "emailAddress": "quinkat@gmail.com"
+      }
+    }]
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "Caitlyn Morales"
+      },
+      "emailAddress": "cmorales@stsaviour.org"
+    },
+    "guardians": [{
+      "guardianProfile": {
+        "name": {
+          "fullName": "Clarissa Rios"
+        },
+        "emailAddress": "clarissa3579@gmail.com"
+      }
+    }]
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "Eleonor Martin"
+      },
+      "emailAddress": "emartin@stsaviour.org"
+    },
+    "guardians": [{
+      "invitedEmailAddress": "angevia@live.fr"
+    }, {
+      "guardianProfile": {
+        "name": {
+          "fullName": "Geoffrey Santini"
+        },
+        "emailAddress": "geofsan@gmail.com"
+      }
+    }]
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "Jaylynn Vargas"
+      },
+      "emailAddress": "javargas@stsaviour.org"
+    },
+    "guardians": [{
+      "guardianProfile": {
+        "name": {
+          "fullName": "Cathy Vargas"
+        },
+        "emailAddress": "cathyvargas6918@gmail.com"
+      }
+    }]
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "Rachel McNamara"
+      },
+      "emailAddress": "rmcnamara@stsaviour.org"
+    }
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-05-19T14:49:27.073Z",
+    "updateTime": "2025-05-19T14:49:27.045Z",
+    "publicationTime": "2025-05-19T14:49:26.751Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "All,\n\nPlease make an effort to be here in the computer lab during 7th period today for closing notes if possible. We do not have to use the entire period if you need time for senior prank!\n\nThank you,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003eAll,\u003cbr\u003e\u003cbr\u003ePlease make an effort to be here in the computer lab during 7th period today for closing notes if possible. We do not have to use the entire period if you need time for senior prank!\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-05-05T11:42:05.163Z",
+    "updateTime": "2025-05-05T11:42:04.637Z",
+    "publicationTime": "2025-05-05T11:42:04.481Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "courseWork": {
+      "title": "AP Computer Science Exam Study Guide",
+      "description": "All,\n\nApologies for the last-minute assignment posting. Students will submit an exam study guide covering all topics we\u0027ve discussed this year.\nThe study guide should aim to cover every topic we\u0027ve explored or discussed on labs, quizzes, the midterm, and AP Classroom.\nEach review topic should also include a code example where relevant in the respective course language (Java / Python).\nStudents may collaborate, but all students must submit a review guide individually.\nThe document can be submitted as a Google Doc, PDF, or README.md file.\nWe will use our time in class today to start drafting the study guide.\n\nBest of luck on the exam,\n\nMr. Mazey",
+      "descriptionHtml": "\u003cdiv\u003eAll,\u003cbr\u003e\u003cbr\u003eApologies for the last-minute assignment posting. Students will submit an exam study guide covering all topics we\u0026#39;ve discussed this year.\u003cul\u003e\u003cli\u003eThe study guide should aim to cover every topic we\u0026#39;ve explored or discussed on labs, quizzes, the midterm, and AP Classroom.\u003c/li\u003e\u003cli\u003eEach review topic should also include a code example where relevant in the respective course language (Java / Python).\u003c/li\u003e\u003cli\u003eStudents may collaborate, but \u003cb\u003eall students must submit a review guide individually.\u003c/b\u003e\u003c/li\u003e\u003cli\u003eThe document can be submitted as a Google Doc, PDF, or README.md file.\u003c/li\u003e\u003c/ul\u003eWe will use our time in class today to start drafting the study guide.\u003cbr\u003e\u003cbr\u003eBest of luck on the exam,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e",
+      "dueTime": "2025-05-07T03:59:00Z",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Rachel McNamara"
+            },
+            "emailAddress": "rmcnamara@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1541LGolLG4OK8vvl2WAtrSQUgteMy7rw",
+              "title": "AP Computer Science Exam Study Guide (May 6, 2025 at 8:25 PM).jpg",
+              "alternateLink": "https://drive.google.com/file/d/1541LGolLG4OK8vvl2WAtrSQUgteMy7rw/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP7dDNgbSjTUMIzg-vlHWkG1Oh7zflysBXmuFt34-jtX5VvfHN6PPpSVVAO-t0k9napzri2X-WVbJZFwtvm6fomTFn72eiZQBwTR2BOSJgTg1g\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1lP9yZb37vNSHD1o8w656sd2neQx3WKUL",
+              "title": "AP Computer Science Exam Study Guide (May 6, 2025 at 8:25 PM).jpg",
+              "alternateLink": "https://drive.google.com/file/d/1lP9yZb37vNSHD1o8w656sd2neQx3WKUL/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN_6RV0szgAOiQjaSnZWvwN3-KYGj9P6WuQOnj5gPwufgOcNccbli9lv0AZVYuCV7rM6dnjOSBOCW0laU6KRqYTt275siCdwvQo-aXnwf940YM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1ba9aTWdwWwRp4tCZEAiGiMuKGGD0eM2b",
+              "title": "AP Computer Science Exam Study Guide (May 6, 2025 at 8:25 PM).jpg",
+              "alternateLink": "https://drive.google.com/file/d/1ba9aTWdwWwRp4tCZEAiGiMuKGGD0eM2b/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNq-u2-UvzfwF4WPgGyUNMTTLrAYsoNT431ZjowHXrziYEu4ZJsE3omDAdFMvSo_I7tfDfneADDYzjtgGn3XyUIFVyu1PCf8vGNVPW5p_DetRk\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1h6_KcAY4FpR-krUbetH9UPNkIIcpjMTg",
+              "title": "AP Computer Science Exam Study Guide (May 6, 2025 at 8:25 PM).jpg",
+              "alternateLink": "https://drive.google.com/file/d/1h6_KcAY4FpR-krUbetH9UPNkIIcpjMTg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOC25bf9YQEv5kgk1xt3a81dlt6XKFZ_QOMi-BJ2VXwxMujoYPWIFkpewVNC36vqGm7FHfsa1ztfsjawayZnAuNGNkoOfrqxl5bKvfTOfzeDYY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Ru2vsBPn1XkCEJudLdfKM9zTpen11fxO",
+              "title": "AP Computer Science Exam Study Guide (May 6, 2025 at 8:25 PM).jpg",
+              "alternateLink": "https://drive.google.com/file/d/1Ru2vsBPn1XkCEJudLdfKM9zTpen11fxO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPRlkBJ2WVYODErU16Pl-WHIelAKRtkVQ6Zf7EdxuCVKLmz8VQZhkmUzgDrIbqWqu1l_g-p4UqtSorGqfpZ-DBCWp4GhrYn_8r5pceGISpOVD8\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Jaylynn Vargas"
+            },
+            "emailAddress": "javargas@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1MfP3J5VSNC5C_9sc_aTbXXzk4yGM3rfDwxPKXYHSEkU",
+              "title": "Comp Sci Study Guide",
+              "alternateLink": "https://docs.google.com/document/d/1MfP3J5VSNC5C_9sc_aTbXXzk4yGM3rfDwxPKXYHSEkU/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO0Afcnxl-B7vzVoG3X_t6OA9glqgR4qWgqZBv0g0xBPuNdqV6-GW7U6jgnX7AY75C5EoGpOK19gGhx9FK1uo4vQSQ7tWAzPFUtOtMxxqBq2VAR2NO2msIWBnGZ4RZlFDdAKFk\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Eleonor Martin"
+            },
+            "emailAddress": "emartin@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1eI9FN90_rzYeh3scr0YNnykvWzAQGcyCcaqYCm9soL8",
+              "title": "Eleonor Martin - AP Computer Science Exam Study Guide",
+              "alternateLink": "https://docs.google.com/document/d/1eI9FN90_rzYeh3scr0YNnykvWzAQGcyCcaqYCm9soL8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPSZnBPthxUw4kP15nomaoQIyKNmRkN3B7nehDp_l4IMOEaBcdFwrB0o2Pq8tcicjbzJ-zM1k78WSzynOFnZM6WtzCKE3TkJH0SOQVzlKeWdAiRmKON0DjclIZJuw8bUkmvdmg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Caitlyn Morales"
+            },
+            "emailAddress": "cmorales@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Vxf4oYAoU29usfeT-hKqLBjuxvFjRDve",
+              "title": "AP Computer Science Exam Study Guide (May 6, 2025 at 7:26 PM).pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Vxf4oYAoU29usfeT-hKqLBjuxvFjRDve/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNXx45GD7sbardPDVcuXmsCL7kKsFc7L8KSupWeDL0ti6QUVKpK0lgtwkwaYkdIB7j3o7lUJ7EiemljfpbQFbk4OW5sMpYp0YH5eKjdPfV4Hnw\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Erika Rodrigues"
+            },
+            "emailAddress": "erodrigues@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OLbksgiF5JeYGz8aPb84QjcbVUpgX7XpEbGCD78-39o",
+              "title": "Erika Rodrigues - AP Computer Science Exam Study Guide",
+              "alternateLink": "https://docs.google.com/document/d/1OLbksgiF5JeYGz8aPb84QjcbVUpgX7XpEbGCD78-39o/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNB22o2Z_RLmaHV67xBKOXWhOhXJjIO9DgSI3cGMHYBZBFXTqGfbY385UU-RynYpDiHrpVYPgK3qd_65YYVXZ2F-BZkjoXWaiWvG5H6x4nJZ3gGZGoO2va3Q7VuzOyTP-wStiI\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Maricar Erlano"
+            },
+            "emailAddress": "merlano@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YjA1x33rcpCmK24DazUoQvXSp5uIx4rTtB8lxrUETXE",
+              "title": "Maricar Erlano - AP Computer Science Exam Study Guide",
+              "alternateLink": "https://docs.google.com/document/d/1YjA1x33rcpCmK24DazUoQvXSp5uIx4rTtB8lxrUETXE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBORMmkhAw6WBFTLXFIrRjxaieOUYnxuNNPETEoSFDDfmIlcd7Uh4yYSBnomMuVTsjCILEOXcBrhworZa7gEZ50Z0aO_TwijucrVHvLR16OD4tTaUomysHKXgO8b3RFQGaBOSCw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-04-15T11:46:47.963Z",
+    "updateTime": "2025-04-15T11:46:47.943Z",
+    "publicationTime": "2025-04-15T11:46:47.733Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Study Materials for Spring Break\n\nAll,\n\nI have posted OPTIONAL content on AP Classroom for anyone looking to practice over Spring Break. I strongly suggest you review these materials if you intend to pass in May. We will only have roughly 4 days of review when we return from Spring Break before the actual exam. Coming prepared with specific questions will greatly enhance the value of the review.\n\nPractice Test 3 and every AP Unit Check-In Quiz have been provided to you this morning. I advise you to watch the videos on AP Classroom for the topics you struggle with the most, take the check-in quiz, and then complete PT3 towards the end of the break if you want to maximize all materials.\n\nI am giving a large presentation on April 23rd -- while my availability via email will be inconsistent, I still encourage you to email me with any questions you may have.\n\nBest of luck!\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eStudy Materials for Spring Break\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003eI have posted OPTIONAL content on AP Classroom for anyone looking to practice over Spring Break. I strongly suggest you review these materials if you intend to pass in May. \u003cb\u003eWe will only have roughly 4 days of review when we return from Spring Break before the actual exam. Coming prepared with specific questions will greatly enhance the value of the review.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003ePractice Test 3 and every AP Unit Check-In Quiz have been provided to you this morning. \u003cb\u003eI advise you to watch the videos on AP Classroom for the topics you struggle with the most, take the check-in quiz, and then complete PT3 towards the end of the break if you want to maximize all materials.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eI am giving a large presentation on April 23rd -- while my availability via email will be inconsistent, I still encourage you to email me with any questions you may have.\u003cbr\u003e\u003cbr\u003eBest of luck!\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-04-13T16:18:56.771Z",
+    "updateTime": "2025-04-13T16:18:56.749Z",
+    "publicationTime": "2025-04-13T16:18:56.612Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Reminder on PT2\n\nAll,\n\nSeveral students have yet to submit Practice Test 2. Please make time to do so today if you have not already completed PT2. The exam will close at 11.45pm EST. While PT2 won\u0027t be \"graded,\" you will be receiving points in PowerSchool for submitting it.\n\nThe results from PT2 will motivate our final review in the week leading up to the actual AP exam after we return from Spring Break. Please put your best effort into both sections.\n\nThank you,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eReminder on PT2\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003eSeveral students have yet to submit Practice Test 2. Please make time to do so today if you have not already completed PT2. \u003cb\u003eThe exam will close at 11.45pm EST.\u003c/b\u003e While PT2 won\u0026#39;t be \u0026quot;graded,\u0026quot; you will be receiving points in PowerSchool for submitting it.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eThe results from PT2 will motivate our final review in the week leading up to the actual AP exam after we return from Spring Break.\u003c/b\u003e Please put your best effort into both sections.\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-04-04T13:23:46.379Z",
+    "updateTime": "2025-04-04T13:23:46.346Z",
+    "publicationTime": "2025-04-04T13:23:46.148Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Practice Test 2 \u0026 Science Symposium\n\nAll,\n\nWe will be hosting Practice Test 2 (PT2) on Wednesday, April 9th after school. Being that this exam is taking place outside normal school hours, participation is optional; however, ALL STUDENTS must complete PT2 no later than Sunday, April 13th @ 11.59pm. Students will receive points in PowerSchool for completing PT2 -- failure to submit the exam will result in a 0 for the assignment.\n\nExam results from PT2 will motivate our final review leading up to the actual AP exam. A strong performance on PT2 is essential for any student planning to pass AP CS A in May. I suggest you spend some time reviewing this weekend to get the most out of PT2 and our subsequent review.\n\nAdditionally, we will be participating in Science Symposium the following day on Thursday, April 10th. Students may choose to demonstrate any project they have worked on this year. Students who participate in Science Symposium will be awarded extra credit towards their Q4 grade.\n\nThis coming weekend is among the final weekends you have to prepare for the exam in May. Please use your time wisely and email me if you have any questions.\n\nGood luck,\n\nMr. Mazey ",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003ePractice Test 2 \u0026amp; Science Symposium\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003eWe will be hosting Practice Test 2 (PT2) on \u003cb\u003eWednesday, April 9th\u003c/b\u003e after school. Being that this exam is taking place outside normal school hours, participation is optional; however, ALL STUDENTS must complete PT2 no later than \u003cb\u003eSunday, April 13th @ 11.59pm\u003c/b\u003e. Students will receive points in PowerSchool for completing PT2 -- failure to submit the exam will result in a 0 for the assignment.\u003cbr\u003e\u003cbr\u003eExam results from PT2 will motivate our final review leading up to the actual AP exam. \u003cb\u003eA strong performance on PT2 is \u003ci\u003eessential \u003c/i\u003efor any student planning to pass AP CS A in May.\u003c/b\u003e I suggest you spend some time reviewing this weekend to get the most out of PT2 and our subsequent review.\u003cbr\u003e\u003cbr\u003eAdditionally, we will be participating in Science Symposium the following day on \u003cb\u003eThursday, April 10th\u003c/b\u003e. Students may choose to demonstrate any project they have worked on this year. Students who participate in Science Symposium will be awarded extra credit towards their Q4 grade.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eThis coming weekend is among the final weekends you have to prepare for the exam in May. \u003c/b\u003ePlease use your time wisely and email me if you have any questions.\u003cbr\u003e\u003cbr\u003eGood luck,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-03-31T10:35:08.122Z",
+    "updateTime": "2025-03-31T10:35:08.089Z",
+    "publicationTime": "2025-03-31T10:35:07.890Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Oops, All Arrays!\n\nGood morning,\n\nI am under the weather today and will not be attending class. Please use our time today to complete the Oops, All Arrays! quiz assigned in AP Classroom. While the quiz will not be added to PowerSchool, your performance on this quiz is a strong indicator of how you will perform on the actual AP exam, so please do your best.\n\nWe will be reviewing Huffman implementations and the quiz results when I return tomorrow.\n\nThank you,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eOops, All Arrays!\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eGood morning,\u003cbr\u003e\u003cbr\u003eI am under the weather today and will not be attending class. \u003cb\u003ePlease use our time today to complete the \u003ci\u003eOops, All Arrays!\u003c/i\u003e quiz assigned in AP Classroom.\u003c/b\u003e While the quiz will not be added to PowerSchool, your performance on this quiz is a strong indicator of how you will perform on the actual AP exam, so please do your best.\u003cbr\u003e\u003cbr\u003eWe will be reviewing Huffman implementations and the quiz results when I return tomorrow.\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-03-28T11:19:21.452Z",
+    "updateTime": "2025-03-28T11:20:24.930Z",
+    "publicationTime": "2025-03-28T11:20:24.506Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "courseWork": {
+      "title": "Lab 6: Huffman",
+      "description": "Please submit a link to your GitHub repository here. Ensure you have added the latest by adding, committing, and pushing.",
+      "descriptionHtml": "\u003cdiv\u003ePlease submit a link to your GitHub repository here. Ensure you have added the latest by adding, committing, and pushing.\u003c/div\u003e",
+      "dueTime": "2025-03-29T03:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Jaylynn Vargas"
+            },
+            "emailAddress": "javargas@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://github.com/somerainbowinthedark/Jay-st-saviour-huffman.git",
+              "title": "GitHub - somerainbowinthedark/Jay-st-saviour-huffman: Huffman Encoding Algorithm",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/somerainbowinthedark/Jay-st-saviour-huffman.git"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Eleonor Martin"
+            },
+            "emailAddress": "emartin@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Caitlyn Morales"
+            },
+            "emailAddress": "cmorales@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://github.com/CKreatorS/CM-huffman",
+              "title": "GitHub - CKreatorS/CM-huffman: Huffman Encoding Algorithm",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/CKreatorS/CM-huffman"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Caitlyn Morales"
+            },
+            "emailAddress": "cmorales@stsaviour.org"
+          },
+          "creationTime": "2025-03-28T21:00:40.026Z",
+          "updateTime": "2025-03-28T21:00:40.026Z",
+          "comment": "My work is on the develop branch, I don’t think that’s showing up in the link. \n\nBy the way, this is really bad, is there a way that I can work with you in class on Monday so this lab doesn’t get a terrible grade? Between theater and quiz reviews last week and the 3 days of school this week I didn’t get much in-class code work (and unfortunately that’s when I work best). Sorry :( ",
+          "commentHtml": "\u003cdiv\u003eMy work is on the develop branch, I don’t think that’s showing up in the link. \u003cbr\u003e\u003cbr\u003eBy the way, this is really bad, is there a way that I can work with you in class on Monday so this lab doesn’t get a terrible grade? Between theater and quiz reviews last week and the 3 days of school this week I didn’t get much in-class code work (and unfortunately that’s when I work best). Sorry :(\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Erika Rodrigues"
+            },
+            "emailAddress": "erodrigues@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://github.com/whimsical-daffodil/st-saviour-huffman",
+              "title": "GitHub - whimsical-daffodil/st-saviour-huffman: Huffman Encoding Algorithm",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/whimsical-daffodil/st-saviour-huffman"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Maricar Erlano"
+            },
+            "emailAddress": "merlano@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://github.com/maricarerlano/st-saviour-huffman",
+              "title": "GitHub - maricarerlano/st-saviour-huffman: Huffman Encoding Algorithm",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/maricarerlano/st-saviour-huffman"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-03-21T14:00:08.713Z",
+    "updateTime": "2025-03-21T14:00:08.689Z",
+    "publicationTime": "2025-03-21T14:00:08.548Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Lab 5 Extension\n\nAll,\n\nThe Huffman lab due date is extended to Friday, March 28th at 11.59pm.\n\nThank you,\n\nMr. Mazey ",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eLab 5 Extension\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003eThe Huffman lab due date is extended to \u003cb\u003eFriday, March 28th at 11.59pm\u003c/b\u003e.\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-03-17T13:30:26.758Z",
+    "updateTime": "2025-03-17T13:30:25.629Z",
+    "publicationTime": "2025-03-17T13:30:25.313Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1hzVFVgbTgYXCsRlz5i7vZ3XnhOl3e1rS",
+          "title": "sshs-march-java-quiz.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1hzVFVgbTgYXCsRlz5i7vZ3XnhOl3e1rS/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNLlHFpvg2jC_YSoqql62hL0L1LjtcmtCKFYEGUIVvqJu5JzuwyRxW-Q6dtc33XcIm52zrxLAznkAGqDqXLfEoraoZuxXjVtqIQYZ2UoGzfYA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "March Quiz\n\nAll,\n\nPlease find the March Quiz attached. You have access to the questions beforehand, but the quiz on Thursday will be closed book and individually assessed.\n\nBest of luck,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eMarch Quiz\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003ePlease find the March Quiz attached. You have access to the questions beforehand, \u003cb\u003ebut the quiz on Thursday will be closed book and individually assessed.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eBest of luck,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-03-03T12:56:24.700Z",
+    "updateTime": "2025-03-03T12:56:24.660Z",
+    "publicationTime": "2025-03-03T12:56:24.223Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "March Quiz\n\nAll,\n\nThe March quiz will take place on Thursday, March 20th. The following topics will be covered on the quiz:\nMultidimensional Arrays\nArrayList\u003cT\u003e\nIterators\nRecursion\nYou will have access to the same AP reference sheet provided on the midterm and on the AP exam. \n\nBest of luck,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eMarch Quiz\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003eThe March quiz will take place on \u003cb\u003eThursday, March 20th\u003c/b\u003e. The following topics will be covered on the quiz:\u003cul\u003e\u003cli\u003eMultidimensional Arrays\u003c/li\u003e\u003cli\u003eArrayList\u0026lt;T\u0026gt;\u003c/li\u003e\u003cli\u003eIterators\u003c/li\u003e\u003cli\u003eRecursion\u003c/li\u003e\u003c/ul\u003eYou will have access to the same AP reference sheet provided on the midterm and on the AP exam. \u003cbr\u003e\u003cbr\u003eBest of luck,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-03-02T18:59:19.198Z",
+    "updateTime": "2025-03-14T15:02:51.504Z",
+    "publicationTime": "2025-03-02T18:59:18.861Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://github.com/bmazey/st-saviour-huffman",
+        "title": "GitHub - bmazey/st-saviour-huffman: Huffman Encoding Algorithm",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/bmazey/st-saviour-huffman"
+      }
+    }, {
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Huffman_coding",
+        "title": "Huffman coding - Wikipedia",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://en.wikipedia.org/wiki/Huffman_coding"
+      }
+    }],
+    "announcement": {
+      "text": "👩‍🔬Lab 6: Huffman Encoding👩‍🔬\n\nIn this lab students will implement the Huffman Encoding algorithm. Please begin the lab by forking and cloning our class repository: https://github.com/bmazey/st-saviour-huffman\n\nKey Concepts\nCommon data structures in Java (HashMap, PriorityQueue).\nTrees\nObject-Oriented Programming\nIteration\nRecursion\nStudents are tasked to implement the missing methods provided in the course repository.\n\nGrading Criteria\nNode class implementation (15 points)\nLeaf class implementation (15 points)\nHuffman populateFrequenciesMap() method (10 points)\nHuffman encode() method (10 points)\nHuffman generateCodes() method (10 points)\nHuffman getEncodedText() method (10 points)\nHuffman decode() method (10 points)\nStyle \u0026 documentation (20 points)\nStudents may add three unique test cases in the provided testing directory for +10 bonus points. More information on the Huffman algorithm can be found using the link below.\n\nDUE DATE: Monday, March 24th @ 11.59pm EST",
+      "textHtml": "\u003cdiv\u003e👩‍🔬\u003cb\u003e\u003cu\u003eLab 6: Huffman Encoding\u003c/u\u003e\u003c/b\u003e👩‍🔬\u003cbr\u003e\u003cbr\u003eIn this lab students will implement the Huffman Encoding algorithm. Please begin the lab by forking and cloning our class repository: https://github.com/bmazey/st-saviour-huffman\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eKey Concepts\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eCommon data structures in Java (HashMap, PriorityQueue).\u003c/li\u003e\u003cli\u003eTrees\u003c/li\u003e\u003cli\u003eObject-Oriented Programming\u003c/li\u003e\u003cli\u003eIteration\u003c/li\u003e\u003cli\u003eRecursion\u003c/li\u003e\u003c/ul\u003eStudents are tasked to implement the missing methods provided in the course repository.\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eGrading Criteria\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eNode class implementation (15 points)\u003c/li\u003e\u003cli\u003eLeaf class implementation (15 points)\u003c/li\u003e\u003cli\u003eHuffman populateFrequenciesMap() method (10 points)\u003c/li\u003e\u003cli\u003eHuffman encode() method (10 points)\u003c/li\u003e\u003cli\u003eHuffman generateCodes() method (10 points)\u003c/li\u003e\u003cli\u003eHuffman getEncodedText() method (10 points)\u003c/li\u003e\u003cli\u003eHuffman decode() method (10 points)\u003c/li\u003e\u003cli\u003eStyle \u0026amp; documentation (20 points)\u003c/li\u003e\u003c/ul\u003eStudents may add three unique test cases in the provided testing directory for \u003cb\u003e+10 bonus points\u003c/b\u003e. More information on the Huffman algorithm can be found using the link below.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eDUE DATE: Monday, March 24th @ 11.59pm EST\u003c/b\u003e\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-02-21T13:43:30.354Z",
+    "updateTime": "2025-02-21T13:43:30.322Z",
+    "publicationTime": "2025-02-21T13:43:30.131Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "A Friendly Reminder on Practice Test 1\n\nAll,\n\nWhile I know taking a practice over the exam is unappealing, please make the effort to submit both parts of Practice Test 1 before this Sunday night. Your participation is crucial and will help shape our review over the next few weeks. As it stands, only one student has submitted an exam section. Please put in a solid effort and refrain from simply guessing on all the MCQs. \n\nWe will be grading the FRQs together when we return to class.\n\nEnjoy the rest of the break; thank you!\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eA Friendly Reminder on Practice Test 1\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003eWhile I know taking a practice over the exam is unappealing, please make the effort to submit both parts of Practice Test 1 before this Sunday night. Your participation is crucial and will help shape our review over the next few weeks. \u003cb\u003eAs it stands, only one student has submitted an exam section.\u003c/b\u003e Please put in a solid effort and refrain from simply guessing on all the MCQs. \u003cbr\u003e\u003cbr\u003eWe will be grading the FRQs together when we return to class.\u003cbr\u003e\u003cbr\u003eEnjoy the rest of the break; thank you!\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-02-10T15:43:06.084Z",
+    "updateTime": "2025-02-10T15:44:03.887Z",
+    "publicationTime": "2025-02-10T15:44:03.595Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "courseWork": {
+      "title": "Lab 5: Bazaar of Istanbul",
+      "description": "Please include screenshots of your rug designs and include a link to your updated GitHub repository.",
+      "descriptionHtml": "\u003cdiv\u003ePlease include screenshots of your rug designs and include a link to your updated GitHub repository.\u003c/div\u003e",
+      "dueTime": "2025-02-15T04:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Rachel McNamara"
+            },
+            "emailAddress": "rmcnamara@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Tg0MDpry74LhSaKI6VD4RzbEIVKPIMk0",
+              "title": "Screenshot 2025-02-14 at 9.53.46 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1Tg0MDpry74LhSaKI6VD4RzbEIVKPIMk0/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOqZ6BSSNPrtVX-RCFg30s3kOU7ek_5s9Ulpf24usGzTZ7dE65rsSIL01D1N4K4Tz3RbpymIMhQhllaYVcAjioBWCJaYwInOohjPQm72Y0RjUw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1RQUU5HlokfY1Ruc9Ogi1zIdfJ6oKBPXd",
+              "title": "Screenshot 2025-02-14 at 9.53.40 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1RQUU5HlokfY1Ruc9Ogi1zIdfJ6oKBPXd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmyHXsIFiw5ZREiSb8c9VlBGipQeqZx9fckIuzwqhBhr6UkaoHmmoVeJyIwnw2fErpDEOhzs_nyTKv_DzVLxIf2pPewlhhizkeiWqYgyU4c8o\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1KkLQjAWsgi3RgUOY964iCIsCbqUkSMhe",
+              "title": "Screenshot 2025-02-14 at 9.53.35 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1KkLQjAWsgi3RgUOY964iCIsCbqUkSMhe/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO6B9gp9fS4rvcH3e_MoBfraPUbpbwo12XksuBrPvnyxje91JNNatC9Mt7dEG_nIXMrXnVnuiRlnkYav2dRDfCR_mE6Kx1PiTIK0M4JwuGkcDQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Jaylynn Vargas"
+            },
+            "emailAddress": "javargas@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://github.com/somerainbowinthedark/Lab-5-Bazaar-of-Istanbul.git",
+              "title": "GitHub - somerainbowinthedark/Lab-5-Bazaar-of-Istanbul: In this lab students will explore the use of multidimensional arrays in Java. Each student must weave a set of Turkish rugs using the emojis of their choice.",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/somerainbowinthedark/Lab-5-Bazaar-of-Istanbul.git"
+            }
+          }, {
+            "driveFile": {
+              "id": "1t0WQwuXelfbZzKVx0tBDaQce5ls18pyH",
+              "title": "Screenshot 2025-02-13 9.03.59 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1t0WQwuXelfbZzKVx0tBDaQce5ls18pyH/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMnYIA4FfGqodSHfHhXIjwFMXLKbXp3UjYPFbCxo97bhcM0HjBOwhJdEA426lxp9XIzpdCaXlx848qmGhOYpw0-cP3Uib93Dhce5YQvADLk60E\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1dXhNXHkiQAu7FZBQRed2ZJmtP-f1Hkec",
+              "title": "Screenshot 2025-02-13 9.04.14 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1dXhNXHkiQAu7FZBQRed2ZJmtP-f1Hkec/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM5tTVkpHwjCJkXsspE9M7Jwa092fvH1UFCoAlb5dyZsXcfbQqPQCL0TAbG33fl1eMwCVdR6lW7ZxvuXxEysZlPoWzx8rx0YHrvAs4r6qu0fec\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1shYfhpv0zi1dH5vfstWTYj0CZSn26CcU",
+              "title": "Screenshot 2025-02-13 9.04.24 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1shYfhpv0zi1dH5vfstWTYj0CZSn26CcU/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNC-OczMmtrUFSqMDEbLgm8a2cxkDfPEfxyjJk6FhYTRu9MEWY7P_tbZZqRJEPDXrMdTLaKBTJHLx9s1ZH8dZRg4KkUKQ9DTnb1p0KezzN2sGA\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1xoIoknpGtdB57gCEsvRllpt2FBs16UCs",
+              "title": "Screenshot 2025-02-13 9.04.38 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1xoIoknpGtdB57gCEsvRllpt2FBs16UCs/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMcxQik2xZ09P2o4nhHz4Nq3HfXEG2CuCRVPS0SjUm_-cmXmBo47WXJyTcizZqN7pnahaj6muGR1IVIyNiqdMwGFAqJVCUwWsTv9O6kXnBZ0Sc\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "12FUUqR9pD0SaVCRhWsYrlZTJNafMdwuY",
+              "title": "Screenshot 2025-02-13 9.04.59 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/12FUUqR9pD0SaVCRhWsYrlZTJNafMdwuY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPc2IvW1KuRUEID7Pl-yH3vdljNGJQIkFWmYZc8fOFFayixgf9WI7kXZzxAoTl5EzhUT3N-YGYyzWT0qjqYbItX-X6YzLee4qeoctm1dR33QX8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1eq2DNWXx2mOO5MSK9Z7ZysEAIbbYdPIF",
+              "title": "Screenshot 2025-02-14 8.07.05 PM.png",
+              "alternateLink": "https://drive.google.com/file/d/1eq2DNWXx2mOO5MSK9Z7ZysEAIbbYdPIF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPPNuTkhjAublbbiTPmCh_6JCaMd8xekpoh-b93ug0-8XRrv0Ii-NzUQsbwqVK4CGpbD1XhHibfhi0iRryZ0db3_xNUBVlVuK8TV53eBuaYOQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Eleonor Martin"
+            },
+            "emailAddress": "emartin@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Tym9xthISy3PlwHxWrMWAVlrjXzxuoyr",
+              "title": "Screenshot 2025-02-14 20.29.29.png",
+              "alternateLink": "https://drive.google.com/file/d/1Tym9xthISy3PlwHxWrMWAVlrjXzxuoyr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMqLKNDOjGWog1FjXD_1VK4MqUi9g-DbxPRYlFq707z0g9_0uzqoNErgn7Lo1FRd69c3o8oW21y6b6pXmIraVb_SLFU5SHdkQHklTz5lCE-zL0\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "11mRNuXCxw2uF-v-4qOvHOll3Fl8_BA7-",
+              "title": "Screenshot 2025-02-14 20.31.06.png",
+              "alternateLink": "https://drive.google.com/file/d/11mRNuXCxw2uF-v-4qOvHOll3Fl8_BA7-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPqd_p2LbZhlgmCKDmOmot6XSmV5r8nyiufd7UpBhRLFJD6ien6W1OONEmanu4w3Qd74hoxCDKwdg0VTNoBHQSnezzYAKI4DZwJVVd4XIt_GSE\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1i8_OXFcLNDG3pJlLcKscTFCeuWD2PB_s",
+              "title": "Screenshot 2025-02-14 20.32.13.png",
+              "alternateLink": "https://drive.google.com/file/d/1i8_OXFcLNDG3pJlLcKscTFCeuWD2PB_s/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPD1YK90X7hAjPFItKvBPTp5DWpiJAWM8d6mXLLp-iAbbVmLnfe3KQ31XzKAEBqp9tPaGhLEDNNkPsgBSjYBZYXK9MDt4qJs9WkbYqWUc8VzlY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1GsXl4H3_llmDKVi_cmHM5kR_VDi9_DYS",
+              "title": "Screenshot 2025-02-14 20.32.37.png",
+              "alternateLink": "https://drive.google.com/file/d/1GsXl4H3_llmDKVi_cmHM5kR_VDi9_DYS/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMBL8l-XO4xykSnUYtwtwaAbegTvUL9B2zbN4PT399V3HrgiyvV819t2Xi6shPX5135ykBfIm4X3tYkO_sxzcFirdy_WuMxoXiyoguLEe7BCN8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Ai-Bu-0-yvEfPhGK59G_168xjR9dQ49h",
+              "title": "Screenshot 2025-02-14 20.33.17.png",
+              "alternateLink": "https://drive.google.com/file/d/1Ai-Bu-0-yvEfPhGK59G_168xjR9dQ49h/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMa5VBqYBedTKaA-f4bwZjcX_idQrwNJtnJObJm5LwxoIQa9aE0D-z-KDqEeGfJx1_zxd0-4mUX0WG6rY2L5ccrz5fTwlBryRwY2CS3UUXAcK4\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1XzdnAcVCcKSuMsbP5S7VpULdniB3kGAC",
+              "title": "Screenshot 2025-02-14 20.34.05.png",
+              "alternateLink": "https://drive.google.com/file/d/1XzdnAcVCcKSuMsbP5S7VpULdniB3kGAC/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMIxpYf6oRRYSe_aJ37qIBuEU2IsxoG8dqnQCG5EHEl-cdznHLEyoFZWLQGiuSzZ5qo6z4l2RzUsAbxuh9zZt2zVdtjYegxOZ4Yt3KIZoY59c4\u003ds200"
+            }
+          }, {
+            "link": {
+              "url": "https://github.com/MorbihanETM/Bazaar_in_Istanbul",
+              "title": "GitHub - MorbihanETM/Bazaar_in_Istanbul: 2D array practice with emoji rugs",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/MorbihanETM/Bazaar_in_Istanbul"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Caitlyn Morales"
+            },
+            "emailAddress": "cmorales@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://github.com/CKreatorS/CM-Lab5",
+              "title": "GitHub - CKreatorS/CM-Lab5: In this lab students will explore the use of multidimensional arrays in Java. Each student must weave a set of Turkish rugs using emojis of their choice.",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/CKreatorS/CM-Lab5"
+            }
+          }, {
+            "driveFile": {
+              "id": "1eigNRpkD9AML0bPmIAG8cS0NjQNbzYni",
+              "title": "Screenshot 2025-02-14 9.37.47 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1eigNRpkD9AML0bPmIAG8cS0NjQNbzYni/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOiKOewr-SykNRhyMw8_W9t9j9wfxX-Ug0Q6F62cqTXjeADIJj1itE9o0zv1wzPB1uZl2EJ_oaHTp3swPE27YCDikzAyC_u3tlfIXddKghftoI\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1xksWaZebWQ_Vyejs9aNdhrkqAYFThLH9",
+              "title": "Screenshot 2025-02-14 9.38.10 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1xksWaZebWQ_Vyejs9aNdhrkqAYFThLH9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOEmELENSBOtLxbSLrCWHH9vLRhFkK0YRPRkrejrpgoo0dBBeFvQxBpiGQlKGc4dlzkAhmqAVxWq-aQILuDGDzh_1zQwJzD0OOyNazuSPcwV9M\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1yOrpkXeuoXwoBASO4_ZgBtAU027WAeP2",
+              "title": "Screenshot 2025-02-14 9.38.28 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1yOrpkXeuoXwoBASO4_ZgBtAU027WAeP2/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPWAm4KT391qnp11NGFiWO9uCrnEyGYjniVpc-T5hzwUsKmAzMb-UTK2A4ebK4MQsOU5FYwYDno4TOq_uw6JnQURDMqH_rlTU1vpTsMIGlXX6Y\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1NwXML9lcWAL7gzN2SjKmxzjN9mhfZZTX",
+              "title": "Screenshot 2025-02-14 9.39.06 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1NwXML9lcWAL7gzN2SjKmxzjN9mhfZZTX/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMwHSM6B_xS3VfOcoF1Ox43TvQbvYRGlof9ZpDtcmoiZpTHtxA6Pb4SWqBOvhYS1VbAvPDDjs2vUXu78SBhMviThBkUdgxDpWqIIRLl8Y7BdxY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1sXLBnbIMmuVUrywlQyk_-i06IfHfzWys",
+              "title": "Screenshot 2025-02-14 9.39.35 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1sXLBnbIMmuVUrywlQyk_-i06IfHfzWys/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMNoH0i73wy5eoP_250p0NPxO8jQakno2jFuv4NKRl7VRL4N5aLiRBTGF3pgE3HEeYeuSmETn58geJ3iYWZOCDYQt8uEhNzrcXq7-QtvKmPNS0\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1WsUR3IGZtZalovEuuAquS3fG7w2Ct-Bf",
+              "title": "Screenshot 2025-02-14 9.39.46 AM.png",
+              "alternateLink": "https://drive.google.com/file/d/1WsUR3IGZtZalovEuuAquS3fG7w2Ct-Bf/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMXZMa03yJEwIIRhV3JuAMHSLGMonkslOecFPYyD3b-hsTjltMWqub0XaMrDaZYosGmdd--qMhxJeLYOD70kL8H0S_xepAEiUZOgdCjhVwHE4M\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Erika Rodrigues"
+            },
+            "emailAddress": "erodrigues@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ZOA57QBmovQnOGU9fjF7gWmk_wA8nlMM",
+              "title": "Screenshot 2025-02-14 7.21.47 PM.png",
+              "alternateLink": "https://drive.google.com/file/d/1ZOA57QBmovQnOGU9fjF7gWmk_wA8nlMM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM6x4RPY-TVwEvsURzafJAZ-S6yPXuxtpFeLS2gLustim0JE9JIdQPOVw08N-GAeZoz9v8859vcn6M9o1S6QmowaLojbHPXPGX792PXnw2-peY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1AvAZF-zxSPTak0cD4vx7xw2yXc20TzSz",
+              "title": "Screenshot 2025-02-14 7.24.43 PM.png",
+              "alternateLink": "https://drive.google.com/file/d/1AvAZF-zxSPTak0cD4vx7xw2yXc20TzSz/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMH_cyZAk0v_gh06iUaEWAhrdIHVead_l2-nUg-i6UZ2OYDpExJDiMyQbSWd12HKhcVKRej4psrrfa6BjP0iHkBkDnFzNrz-YVExiZ2lbfO_JM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "10vGcA5CSrk5eE7vniSuo16LYowUmLC95",
+              "title": "Screenshot 2025-02-14 7.25.54 PM.png",
+              "alternateLink": "https://drive.google.com/file/d/10vGcA5CSrk5eE7vniSuo16LYowUmLC95/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP7nnpXEt7_pkeASzs4MZ1-LhmpFHpKMCVU34CcZOG9wg1k_9Y3TZuU6h9Ndc_n8g8jwPDAmxjzccXcHgtudtBJBAqwdedCz6TJSoyoQY2zRxg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1wE4C1xsNHH_N_T86VAjFQHn2bWZs4YB0",
+              "title": "Screenshot 2025-02-14 7.26.54 PM.png",
+              "alternateLink": "https://drive.google.com/file/d/1wE4C1xsNHH_N_T86VAjFQHn2bWZs4YB0/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMH4nYZjYSioMhMlVU0SiA-PZec2UyEArm0Z0WHlTmrh8hllonvF1Uu4QXhcWRH1ehRZEBjLxpF1hqcAjhU4VWA1xWiPHR7GLh4vmCxdejWgls\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1HuPOZe5cP2OCuvmoox_RTWRzWE2yA0H4",
+              "title": "Screenshot 2025-02-14 7.28.29 PM.png",
+              "alternateLink": "https://drive.google.com/file/d/1HuPOZe5cP2OCuvmoox_RTWRzWE2yA0H4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOuzQw8rB_NU7GBElw31Bg141ZWlZYrxV_gl7yAobYuTPejpV0adjtCRehBiOK0siXGzO11-76nLjg0LllhH8VWam5WQo9kpVo0RY1akj_mkIw\u003ds200"
+            }
+          }, {
+            "link": {
+              "url": "https://github.com/whimsical-daffodil/Lab-5-sshs",
+              "title": "GitHub - whimsical-daffodil/Lab-5-sshs",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/whimsical-daffodil/Lab-5-sshs"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Erika Rodrigues"
+            },
+            "emailAddress": "erodrigues@stsaviour.org"
+          },
+          "creationTime": "2025-02-15T00:39:34.135Z",
+          "updateTime": "2025-02-15T00:39:34.135Z",
+          "comment": "Hi Mr. Mazey! I\u0027ll email you a screenshot of argyle as well as a link to my updated repository sometime before tomorrow night if that\u0027s alright! Thank you so much!",
+          "commentHtml": "\u003cdiv\u003eHi Mr. Mazey! I\u0026#39;ll email you a screenshot of argyle as well as a link to my updated repository sometime before tomorrow night if that\u0026#39;s alright! Thank you so much!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Maricar Erlano"
+            },
+            "emailAddress": "merlano@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-02-02T13:09:44.673Z",
+    "updateTime": "2025-02-02T13:10:00.204Z",
+    "publicationTime": "2025-02-02T13:09:41.984Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "12lNzRe278FNhJatu5jFGWzcs3UXoPccT",
+          "title": "solid.png",
+          "alternateLink": "https://drive.google.com/file/d/12lNzRe278FNhJatu5jFGWzcs3UXoPccT/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOn1bwcaZO_hpondIDZfPaO-9e3sLMBGhesOjfu1j6nNrftySIcp8bAj2cJVlKFoRYnLwvdDzEcVot_1zYoAZO--TmEtP_0FoYBa1LMHoGieQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1CqLKqql3opNzBDHKikXQz_vjEreaz3wn",
+          "title": "vertical.png",
+          "alternateLink": "https://drive.google.com/file/d/1CqLKqql3opNzBDHKikXQz_vjEreaz3wn/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNsJuFqId_asWktaNldqwDEfE9p1RYwTAAkmRKZm3NxjyuvtE92GAdGyLEJ0OxatjXEuJf0aW3ZrfHPx2_wBSeYCsZGFdbh0WH3VH9u9Sc8UQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1wlohiGWuIIupos5sNcctcHl9doXIF4A1",
+          "title": "horizontal.png",
+          "alternateLink": "https://drive.google.com/file/d/1wlohiGWuIIupos5sNcctcHl9doXIF4A1/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOm44z-S3jmxTwbkKJ6xOpMer08B078Fc_IImqtTdIBnjY1CKsIfhlBxT3ERFECbbF9IGir4EfBn1xvjLJkBIdU_fSthAmC1wpZ3iFTMGM43g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1kGuTwZyRlOZ91CLhgw2QqaCCWJoVp38z",
+          "title": "diagonal.png",
+          "alternateLink": "https://drive.google.com/file/d/1kGuTwZyRlOZ91CLhgw2QqaCCWJoVp38z/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP_p7hCKXQgmaK5cg5FjPVYm78G7-1SFXZDDKcQpAbRwEOYnCMf-Lhq-N1CMxsQNe9LZfRZWqrawsfH7cHW3y-comBVU-TZDrRLEFUVnmWWGQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1ROfhmUK-vNI0KWmpMhzB4pUOzPQkFhS3",
+          "title": "plaid.png",
+          "alternateLink": "https://drive.google.com/file/d/1ROfhmUK-vNI0KWmpMhzB4pUOzPQkFhS3/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP4P5hgNyxVibkRjCkehibbVEZnrYBxXudkyt7xx4kvA_rB4vyFKPJDh98pTxZF8F08ibvBqTYq-9GCXMqxD-gNvsqWEhFP7nQRNmSUZn5NVg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "11v3zyXxSo5cktoPS27oaMx_1qr3MYKvX",
+          "title": "argyle.png",
+          "alternateLink": "https://drive.google.com/file/d/11v3zyXxSo5cktoPS27oaMx_1qr3MYKvX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOaeOU_4BQ3pDe4rzXRpq3MLoGIDpXzXgfQmJfulxKa7-14kN-JL5jEKSuLrQe0pJkxlkv7x305HbyFxgYnBvHWgHuSu88LYRS8AsRBZLoR2w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "Lab 5: Bazaar of Istanbul\n\nIn this lab students will explore the use of multidimensional arrays in Java. Each student must weave a set of Turkish rugs using the emojis of their choice. The five required rug patterns are as follows:\n\n    Solid (20 points)\n    Horizontal (20 points)\n    Vertical (20 points)\n    Diagonal (20 points)\n    Plaid (20 points)\nAll rugs should be 11x11 String arrays. Students may also submit an argyle rug pattern for an additional +10 points. Please see the attached screenshots for pattern references.\n\nStudents are responsible for creating their own GitHub repository.\n\nI strongly suggest each student start by implementing a method to print a formatted 2D String array (ex: weave() method) and a separate method to generate each rug pattern (ex: solid() method). \n\nStudents must submit a link to their GitHub repository and screenshots of each generated rug pattern to receive full credit.\n\nLab 5 Due Date: Friday, February 14th @ 11.59pm",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eLab 5: Bazaar of Istanbul\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eIn this lab students will explore the use of multidimensional arrays in Java. Each student must weave a set of Turkish rugs using the emojis of their choice. The five required rug patterns are as follows:\u003cbr\u003e\u003cul\u003e\u003cli\u003e    Solid (20 points)\u003c/li\u003e\u003cli\u003e    Horizontal (20 points)\u003c/li\u003e\u003cli\u003e    Vertical (20 points)\u003c/li\u003e\u003cli\u003e    Diagonal (20 points)\u003c/li\u003e\u003cli\u003e    Plaid (20 points)\u003c/li\u003e\u003c/ul\u003eAll rugs should be \u003cb\u003e11x11 String arrays\u003c/b\u003e. Students may also submit an \u003cb\u003eargyle rug pattern\u003c/b\u003e \u003cb\u003efor an additional +10 points\u003c/b\u003e. Please see the attached screenshots for pattern references.\u003cbr\u003e\u003cbr\u003eStudents are responsible for creating their own GitHub repository.\u003cbr\u003e\u003cbr\u003eI strongly suggest each student start by implementing a method to print a formatted 2D String array (ex: \u003ci\u003eweave() \u003c/i\u003emethod) and a separate method to generate each rug pattern (ex: \u003ci\u003esolid()\u003c/i\u003e method). \u003cbr\u003e\u003cbr\u003e\u003cb\u003eStudents must submit a link to their GitHub repository and screenshots of each generated rug pattern to receive full credit.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003eLab 5 Due Date: Friday, February 14th @ 11.59pm\u003c/u\u003e\u003c/b\u003e\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-01-29T17:08:53.524Z",
+    "updateTime": "2025-01-29T17:08:53.492Z",
+    "publicationTime": "2025-01-29T17:08:53.297Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Photo Shoot Tomorrow\n\nAll,\n\nOur class won an award from College Board this year. We will be taking a photo tomorrow to commemorate; please be aware and dress accordingly.\n\nThank you,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003ePhoto Shoot Tomorrow\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003eOur class won an award from College Board this year. We will be taking a photo tomorrow to commemorate; please be aware and dress accordingly.\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-01-17T15:24:43.400Z",
+    "updateTime": "2025-01-17T15:24:42.751Z",
+    "publicationTime": "2025-01-17T15:24:42.533Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "courseWork": {
+      "title": "2025 Midterm Study Guide",
+      "description": "Please use this post as a means to submit your 2025 midterm study guide due Friday, January 17th at 11.59pm.",
+      "descriptionHtml": "\u003cdiv\u003ePlease use this post as a means to submit your 2025 midterm study guide due Friday, January 17th at 11.59pm.\u003c/div\u003e",
+      "dueTime": "2025-01-18T04:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Rachel McNamara"
+            },
+            "emailAddress": "rmcnamara@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1fFancvhY0bcRRazLpzXSBqa5X1SwqcCK",
+              "title": "AP Comp Sci A Midterm.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1fFancvhY0bcRRazLpzXSBqa5X1SwqcCK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM77N5IFhfJrT9zbQrtz7c4JZ10MdtH8TpNIWLQ5ZfrfGU2hA0cN0aR5hRd6F8q3Tw-vizs0Mjq-Qh8F5RqGIgrFjjflfKLiYQEUX2sGIoNdeI\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Jaylynn Vargas"
+            },
+            "emailAddress": "javargas@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xe6euO_66c9UPMUuBeqRqd7XJyB8BF4NQMK9HruYUXg",
+              "title": "comp sci study guide",
+              "alternateLink": "https://docs.google.com/document/d/1xe6euO_66c9UPMUuBeqRqd7XJyB8BF4NQMK9HruYUXg/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO4UmauqtVyTPqeeyE939JAzVQ9lfstuD9b2uTsBazzucHL-sUvjiMhlbWAHdimyzXJ3hjnFh_-JHWW_44badcP-jkItpSqSK-nHvPM3M908jyHA_9C2axqW4ZFEtiPEU4otUw\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Eleonor Martin"
+            },
+            "emailAddress": "emartin@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ZYi3poIqHNRscqUtMbV4byJpETOMsqNTBucefXHRw58",
+              "title": "Compsci midterm review",
+              "alternateLink": "https://docs.google.com/document/d/1ZYi3poIqHNRscqUtMbV4byJpETOMsqNTBucefXHRw58/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNVOeC5IUJE5RFD8oEpnU4cRlGKDyJXlGjAyoZJxeIDNyNQgV-jWok455cOgWI2mOQhcJvMoXxGxiq4EnTO9qPBhhJj5lUFDC5YJY0nkMSZsvmMkwIIpnZl6QQq6o2w4TYGFXU\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Caitlyn Morales"
+            },
+            "emailAddress": "cmorales@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1q6tl2Q-Tv68kBZZz_F5Kr0nDcqQ5UtiO",
+              "title": "2025 Midterm Study Guide (Jan 17, 2025 at 10:36 PM).pdf",
+              "alternateLink": "https://drive.google.com/file/d/1q6tl2Q-Tv68kBZZz_F5Kr0nDcqQ5UtiO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPcJEjkrNmBA_IFHI7zllwGBmh_QHSib_AyGoGqg8tKHldvWTWkaevhag7fx96kCf66Ro_hfbHKCVtB66z3qO1MauPtx_gg8F62LcgNHmLu-fE\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Erika Rodrigues"
+            },
+            "emailAddress": "erodrigues@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WTTrFEW2la1aqzzc66h1Z9GkiGwzccxNN9pD_kKJJGw",
+              "title": "Erika Rodrigues - 2025 Midterm Study Guide",
+              "alternateLink": "https://docs.google.com/document/d/1WTTrFEW2la1aqzzc66h1Z9GkiGwzccxNN9pD_kKJJGw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOONVrASH4FTX595pj7iPGqR7BRYU9RM_5mwB0_fjHSjHzsCArfMX8-b0kN-05W2v6jbNHf1hMh246fBB3dkgRIdqrFpBNd3UuxSIAkxiee97PMdmWnWbnUL7ng0CsnDK7cdnw\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Maricar Erlano"
+            },
+            "emailAddress": "merlano@stsaviour.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19YppXHw_g5sa2F2Qxrz0nhmyOamV96Awim1-OzsnXSM",
+              "title": "ap compsci a midterm study guide",
+              "alternateLink": "https://docs.google.com/document/d/19YppXHw_g5sa2F2Qxrz0nhmyOamV96Awim1-OzsnXSM/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNMBFIgAsflvMrOD4r_G1Z49RHEMQSZZnMIzYlEDK_6bFrtwRtHIyb8hZW3IsuahDtzqBHQ6Y10vt9-zZypE7ncYv8sjMRCMUGf4Lz2ZPefs29jt6CPQh2M99_nXtt0GjF3CjI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-01-14T17:07:46.865Z",
+    "updateTime": "2025-01-14T17:07:46.837Z",
+    "publicationTime": "2025-01-14T17:07:46.618Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Midterm Study Guide Assignment\n\nAll,\n\nPlease submit your completed midterm study guide by this Friday, January 17th at 11.59pm. I encourage you to post your study guide here on Google Classroom to review for the exam with your classmates. Aim to cover every topic we\u0027ve discussed since September; the assignment is worth 10 points.\n\nThank you,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eMidterm Study Guide Assignment\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003ePlease submit your completed midterm study guide by this \u003cb\u003eFriday, January 17th at 11.59pm\u003c/b\u003e. I encourage you to \u003cb\u003epost your study guide here on Google Classroom\u003c/b\u003e to review for the exam with your classmates. Aim to cover every topic we\u0026#39;ve discussed since September; the assignment is worth 10 points.\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-01-12T17:21:28.763Z",
+    "updateTime": "2025-01-12T17:21:28.733Z",
+    "publicationTime": "2025-01-12T17:21:28.388Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Lab 4 Reminder\n\nAll,\n\nLab 4 is due tonight at midnight; please ensure you have all your code pushed up to GitHub and email me a link to your repository or post your link here on Google Classroom.\n\nThank you,\n\nMr. Mazey ",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eLab 4 Reminder\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eAll,\u003cbr\u003e\u003cbr\u003eLab 4 is due tonight at midnight; please ensure you have all your code pushed up to GitHub and \u003cb\u003eemail me a link to your repository\u003c/b\u003e or post your link here on Google Classroom.\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2025-01-06T12:57:22.165Z",
+    "updateTime": "2025-01-06T12:57:22.131Z",
+    "publicationTime": "2025-01-06T12:57:21.920Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Google Meet is now open!\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003eGoogle Meet is now open!\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-12-13T19:12:13.135Z",
+    "updateTime": "2024-12-13T19:12:13.098Z",
+    "publicationTime": "2024-12-13T19:12:12.849Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Interfaces\n\nhttps://www.geeksforgeeks.org/interfaces-in-java/\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eInterfaces\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003ehttps://www.geeksforgeeks.org/interfaces-in-java/\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-12-09T12:57:20.425Z",
+    "updateTime": "2024-12-09T12:57:20.387Z",
+    "publicationTime": "2024-12-09T12:57:20.164Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://github.com/bmazey/st-saviour-oop-java",
+        "title": "GitHub - bmazey/st-saviour-oop-java: Object-Oriented Programming Lab",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/bmazey/st-saviour-oop-java"
+      }
+    }, {
+      "link": {
+        "url": "https://www.geeksforgeeks.org/protected-keyword-in-java-with-examples/",
+        "title": "Protected Keyword in Java with Examples - GeeksforGeeks",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.geeksforgeeks.org/protected-keyword-in-java-with-examples/"
+      }
+    }, {
+      "link": {
+        "url": "https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/",
+        "title": "Class Diagram | Unified Modeling Language (UML) - GeeksforGeeks",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/"
+      }
+    }],
+    "announcement": {
+      "text": "Lab 4: 👩‍🎤📈 OOPs! I Did It Again 👩‍🎤📈\n\nIn this lab exercise students will explore Object-Oriented Programming (OOP) concepts in Java by creating their own inheritance structure.\n\nKey Concepts\nInheritance (extends, implements)\nPolymorphism (instanceof)\nKey word abstract\nKey word super\nAccess modifiers (public, private), setter() / getter() design pattern.\nArrayList\u003cT\u003e\nThis lab is broken down into three parts -- students must complete all three sections to receive full credit. Students may work in groups, but all work will be submitted and graded individually. Students may begin the lab by forking \u0026 cloning the following repository: https://github.com/bmazey/st-saviour-oop-java\n\nPart 1: Unified Model Language (UML) Diagram (10 points)\nBefore writing code, students must first create a UML diagram which describes the relationship between their intended classes. The designed structure must contain at least four (4) classes: one abstract grandparent class, one parent class, and two children classes. The structure must also define at least one interface and a class which implements the interface. The UML diagram may be submitted digitally or drawn on paper.\n\nMore information on UML class diagrams can be found here: https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/\n\nLAB 4 PART 1 DUE DATE: Friday, December 13th 2024 (submitted in class, or on Google Classroom)\n\nPart 2: Java Implementation (60 points)\nAfter receiving approval on the diagram submitted in Part 1 students may begin the implementation of the designed structure. The structure must address the following criteria for full credit (10 points each):\nContains at least four (4) classes, with at least one class being abstract.\nDemonstrates working knowledge of key word extends.\nContains at least one (1) interface, and a class which implements the interface.\nDemonstrates working knowledge of key word super.\nDemonstrates knowledge of access modifiers (public, private) using setter() / getter() methods.\nMay or may not contain an example of ArrayList\u003cT\u003e.\nPart 3: Tests \u0026 Validation (30 points)\nYour lab submission should include tests which demonstrate polymorphic types and a functional inheritance hierarchy. The tests must address the following criteria for full credit (10 points each):\nAsserts polymorphic types using instanceof operator.\nConfirms presence of inherited methods \u0026 properties.\nContains example of ArrayList\u003cT\u003e if not defined in implementation.\nFor ten additional points (+10) students may demonstrate working knowledge of the protected access modifier. For more information on key word protected please review the following link: https://www.geeksforgeeks.org/protected-keyword-in-java-with-examples/\n\nAs always, correct style and good documentation (comments) are required for full points.\n\nLAB 4 PART 2 \u0026 3 DUE DATE: Sunday, January 12th @ 11.59pm",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eLab 4: 👩‍🎤\u003c/u\u003e\u003c/b\u003e\u003cu\u003e📈\u003c/u\u003e\u003cb\u003e\u003cu\u003e OOPs! I Did It Again 👩‍🎤\u003c/u\u003e\u003c/b\u003e\u003cu\u003e📈\u003c/u\u003e\u003cbr\u003e\u003cbr\u003eIn this lab exercise students will explore Object-Oriented Programming (OOP) concepts in Java by creating their own inheritance structure.\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eKey Concepts\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eInheritance (\u003cb\u003eextends\u003c/b\u003e, \u003cb\u003eimplements\u003c/b\u003e)\u003c/li\u003e\u003cli\u003ePolymorphism (\u003cb\u003einstanceof\u003c/b\u003e)\u003c/li\u003e\u003cli\u003eKey word \u003cb\u003eabstract\u003c/b\u003e\u003c/li\u003e\u003cli\u003eKey word \u003cb\u003esuper\u003c/b\u003e\u003c/li\u003e\u003cli\u003eAccess modifiers (\u003cb\u003epublic\u003c/b\u003e, \u003cb\u003eprivate\u003c/b\u003e), setter() / getter() design pattern.\u003c/li\u003e\u003cli\u003eArrayList\u0026lt;T\u0026gt;\u003c/li\u003e\u003c/ul\u003eThis lab is broken down into three parts -- \u003cb\u003estudents must complete all three sections to receive full credit.\u003c/b\u003e Students may work in groups, but all work will be submitted and graded individually. Students may begin the lab by forking \u0026amp; cloning the following repository: https://github.com/bmazey/st-saviour-oop-java\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003ePart 1: Unified Model Language (UML) Diagram\u003c/u\u003e (10 points)\u003c/b\u003e\u003cbr\u003eBefore writing code, students must first create a UML diagram which describes the relationship between their intended classes. The designed structure \u003cb\u003emust contain at least four (4) classes\u003c/b\u003e: one abstract grandparent class, one parent class, and two children classes. The structure \u003cb\u003emust also define at least one interface and a class which implements the interface\u003c/b\u003e. The UML diagram may be submitted digitally or drawn on paper.\u003cbr\u003e\u003cbr\u003eMore information on UML class diagrams can be found here: https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/\u003cbr\u003e\u003cbr\u003e\u003cb\u003eLAB 4 PART 1 DUE DATE: Friday, December 13th 2024 (submitted in class, or on Google Classroom)\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003ePart 2: Java Implementation (60 points)\u003c/u\u003e\u003c/b\u003e\u003cbr\u003eAfter receiving approval on the diagram submitted in Part 1 students may begin the implementation of the designed structure. The structure must address the following criteria for full credit (10 points each):\u003cul\u003e\u003cli\u003eContains at least four (4) classes, with at least one class being \u003cb\u003eabstract\u003c/b\u003e.\u003c/li\u003e\u003cli\u003eDemonstrates working knowledge of key word \u003cb\u003eextends\u003c/b\u003e.\u003c/li\u003e\u003cli\u003eContains at least one (1)\u003cb\u003e interface\u003c/b\u003e, and a class which \u003cb\u003eimplements\u003c/b\u003e the interface.\u003c/li\u003e\u003cli\u003eDemonstrates working knowledge of key word \u003cb\u003esuper\u003c/b\u003e.\u003c/li\u003e\u003cli\u003eDemonstrates knowledge of access modifiers (\u003cb\u003epublic\u003c/b\u003e, \u003cb\u003eprivate\u003c/b\u003e) using setter() / getter() methods.\u003c/li\u003e\u003cli\u003eMay or may not contain an example of \u003cb\u003eArrayList\u0026lt;T\u0026gt;\u003c/b\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cb\u003e\u003cu\u003ePart 3: Tests \u0026amp; Validation (30 points)\u003c/u\u003e\u003c/b\u003e\u003cbr\u003eYour lab submission should include tests which demonstrate polymorphic types and a functional inheritance hierarchy. The tests must address the following criteria for full credit (10 points each):\u003cul\u003e\u003cli\u003eAsserts polymorphic types using \u003cb\u003einstanceof\u003c/b\u003e operator.\u003c/li\u003e\u003cli\u003eConfirms presence of inherited methods \u0026amp; properties.\u003c/li\u003e\u003cli\u003eContains example of \u003cb\u003eArrayList\u0026lt;T\u0026gt;\u003c/b\u003e if not defined in implementation.\u003c/li\u003e\u003c/ul\u003eFor \u003cb\u003eten additional points (+10)\u003c/b\u003e students may demonstrate working knowledge of the \u003cb\u003eprotected\u003c/b\u003e access modifier. For more information on key word protected please review the following link: https://www.geeksforgeeks.org/protected-keyword-in-java-with-examples/\u003cbr\u003e\u003cbr\u003e\u003cb\u003eAs always, correct style and good documentation (comments) are required for full points.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eLAB 4 PART 2 \u0026amp; 3 DUE DATE: Sunday, January 12th @ 11.59pm\u003c/b\u003e\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rachel McNamara"
+      },
+      "emailAddress": "rmcnamara@stsaviour.org"
+    },
+    "creationTime": "2024-12-06T19:06:28.672Z",
+    "updateTime": "2024-12-06T19:06:27.835Z",
+    "publicationTime": "2024-12-06T19:06:27.549Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1QNGHm_1XDcQeO5aeVYLoaY3iFqqIa3rT",
+          "title": "Screen Recording 2024-12-06 at 1.47.26 PM.mov",
+          "alternateLink": "https://drive.google.com/file/d/1QNGHm_1XDcQeO5aeVYLoaY3iFqqIa3rT/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMuVGWIcDl69TT4RMonOaW42P1sd06Dp6uAU9mF7O-Es79CEFveyw2OJAsxYRMY6fV9btPIsLkU9FKRElC84iEE9Sxbz2JeeBR3wRw4YyqumA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "let\u0027s just pretend this was submitted on time",
+      "textHtml": "\u003cdiv\u003elet\u0026#39;s just pretend this was submitted on time\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jaylynn Vargas"
+      },
+      "emailAddress": "javargas@stsaviour.org"
+    },
+    "creationTime": "2024-11-29T01:39:17.678Z",
+    "updateTime": "2024-11-29T01:39:16.604Z",
+    "publicationTime": "2024-11-29T01:39:16.385Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://github.com/somerainbowinthedark/st-saviour-dnd-java-fall-24.git",
+        "title": "GitHub - somerainbowinthedark/st-saviour-dnd-java-fall-24: Bludgeons \u0026 Flagons III",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/somerainbowinthedark/st-saviour-dnd-java-fall-24.git"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1yGKDEgDu3NPsyXLqSLjcwZPU7T0JSX9J",
+          "title": "timothy.webm",
+          "alternateLink": "https://drive.google.com/file/d/1yGKDEgDu3NPsyXLqSLjcwZPU7T0JSX9J/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMR-FPFeh_nyhRBU982ZrlNqiu98EB0af3a-sUwoXa9L_ESbn3mACfNn17FtXlGmo_noVbzFjMLFP5fzUx4Fm3ZbtFNuzSzQA32f3SyQX1Mdw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "I need to remember to charge my computer more\nAnyway happy turkey day!!!",
+      "textHtml": "\u003cdiv\u003eI need to remember to charge my computer more\u003cbr\u003eAnyway happy turkey day!!!\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Eleonor Martin"
+      },
+      "emailAddress": "emartin@stsaviour.org"
+    },
+    "creationTime": "2024-11-28T04:46:33.541Z",
+    "updateTime": "2024-11-28T04:46:32.475Z",
+    "publicationTime": "2024-11-28T04:46:32.257Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://github.com/MorbihanETM/st-saviour-dnd-java-fall-24",
+        "title": "GitHub - MorbihanETM/st-saviour-dnd-java-fall-24: Bludgeons \u0026 Flagons III",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/MorbihanETM/st-saviour-dnd-java-fall-24"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1ykz0OVVdKWOzhxYVvHM_-VdoObCqyMaF",
+          "title": "Lab_3.webm",
+          "alternateLink": "https://drive.google.com/file/d/1ykz0OVVdKWOzhxYVvHM_-VdoObCqyMaF/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMGRXviqmeOwRZw0Zwn_5H9iXM6C1jDYnHad3wAa93yd_aM9F6Dcs3yrB_E72QrLaQ_wWaELIZI5_pp8uCI2BTqRmsiheopIhLxqlMzdFxzNw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "Lab 3 (sorry for the reupload)!\nHappy thanksgiving! \n",
+      "textHtml": "\u003cdiv\u003eLab 3 (sorry for the reupload)!\u003cbr\u003eHappy thanksgiving!\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Maricar Erlano"
+      },
+      "emailAddress": "merlano@stsaviour.org"
+    },
+    "creationTime": "2024-11-28T04:17:13.685Z",
+    "updateTime": "2024-11-28T04:17:12.734Z",
+    "publicationTime": "2024-11-28T04:17:12.465Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KyLh4InUNhMjiZYy-mwXIzZ4D1mnGSTs",
+          "title": "tlou.mov",
+          "alternateLink": "https://drive.google.com/file/d/1KyLh4InUNhMjiZYy-mwXIzZ4D1mnGSTs/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOf2C31aonv1AZpD12YkLSdSpYu-vR3MerDaGiT3C-Cq-FG0aAZL0USyZZX3nMozV7cvLVkaxS_kbDCgcd0fL41zwCnNgS6BU4-iZz1Tjsxzg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "lab!!https://github.com/maricarerlano/st-saviour-dnd-java-fall-24\n",
+      "textHtml": "\u003cdiv\u003elab!!https://github.com/maricarerlano/st-saviour-dnd-java-fall-24\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Erika Rodrigues"
+      },
+      "emailAddress": "erodrigues@stsaviour.org"
+    },
+    "creationTime": "2024-11-28T01:43:22.728Z",
+    "updateTime": "2024-11-28T01:43:21.717Z",
+    "publicationTime": "2024-11-28T01:43:21.495Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1voCK-i6Q4pQhLerMG7ax4jqpIKqP78r8",
+          "title": "Screen recording 2024-11-27 8.39.07 PM.webm",
+          "alternateLink": "https://drive.google.com/file/d/1voCK-i6Q4pQhLerMG7ax4jqpIKqP78r8/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNLELF-nab5g3qOASU1W_LF6SlGKwfPr7G6bElt20HoSFWolCpua_2BFwSBR9tm4-DWjaLvnsFTO2cn-afN9KK87EaPbzoKsUgxF2_fOKgNoQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "happy thanksgiving ! ^_^\nhttps://github.com/whimsical-daffodil/lab-3-SSHS-Java-fall---erika-r/tree/main",
+      "textHtml": "\u003cdiv\u003ehappy thanksgiving ! ^_^\u003cbr\u003ehttps://github.com/whimsical-daffodil/lab-3-SSHS-Java-fall---erika-r/tree/main\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Caitlyn Morales"
+      },
+      "emailAddress": "cmorales@stsaviour.org"
+    },
+    "creationTime": "2024-11-28T00:46:26.908Z",
+    "updateTime": "2024-11-28T00:46:25.387Z",
+    "publicationTime": "2024-11-28T00:46:25.122Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1wMBUjmcaGjtUsa3DGHdG77_-v8ZBMUCg",
+          "title": "actual win(rare).webm",
+          "alternateLink": "https://drive.google.com/file/d/1wMBUjmcaGjtUsa3DGHdG77_-v8ZBMUCg/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOfz95mccTSEnN7pQaVshrjUuH1DfBIKp3BBnmQBmvBXtRfnr1AkOCTy9PkQgmOjeucqhpA8dsKxobdn6uJfS-QDpyqZWt9x8ePE-RH6cX3Tw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1V-5Ql_zVctD_gqIIMI1Q2Pc7n1iv8NOD",
+          "title": "rage quitting.webm",
+          "alternateLink": "https://drive.google.com/file/d/1V-5Ql_zVctD_gqIIMI1Q2Pc7n1iv8NOD/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNqPchzH7-t6crm_7mITti_a6nfGqzjp_A7fSbdv98V-e-BNxDNT2hIXeut_0H0NKrPXEO50vRoh0S6eA_3hmBjWQLj9vqErLougO_F347AMg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "Lab :] \nhttps://github.com/CKreatorS/Cai-dnd-24/tree/develop\n\n",
+      "textHtml": "\u003cdiv\u003eLab :] \u003cbr\u003ehttps://github.com/CKreatorS/Cai-dnd-24/tree/develop\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-11-23T17:50:08.774Z",
+    "updateTime": "2024-11-23T17:50:28.782Z",
+    "publicationTime": "2024-11-23T17:50:07.108Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1AM97vQUO6XeDjJMu-EQkyFx39kQGtihg",
+          "title": "Copy of November Practice Solutions, Java.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1AM97vQUO6XeDjJMu-EQkyFx39kQGtihg/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNh4gmyHCKOSSaEwfAbLRtEs5qV-ba9n0xYGCmXPbOqvsJdZFpJOrpcEm1NTp5iwJCs9TB8oRJy_j8OeLNcS5fuZ3lvLW8wDtAvWz3saz4Dtw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "November Quiz Practice Problems\n\nSolutions are attached -- DO NOT view solutions before attempting the problems!\n\nQuestion 1\nCreate a truth table for the following boolean expression: !(a or b)\n\nQuestion 2\nWrite a public static method coinFlip() which accepts no arguments and returns a String. The method should simulate a 50 / 50 coin flip and return \u0027Heads\u0027 or \u0027Tails\u0027. \n\nQuestion 3\nWrite a public static method boxCars() which accepts no arguments and returns a boolean. The function should roll two six-sided die and return true iff (if and only if) both die land on the number 6.\n\nQuestion 4\nDesign a Cake class. Your Cake class should include the following public data properties: flavor, layers, and isBirthday. The flavor property should represent the flavor of cake. The layers property should represent how many layers the cake has. The isBirthday property should represent if the Cake is a birthday cake or not.\n\nYour Cake class should implement a default constructor which creates a vanilla cake with three layers for a birthday. Your Cake class should also include a constructor which allows the user to customize all values.\n\nYour Cake class should include a public method eat() which returns a String message. The message should include the flavor and layers. If the Cake is a birthday cake, the message should also include \u0027Happy birthday!\u0027 \n\n---\n\nGood luck,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eNovember Quiz Practice Problems\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eSolutions are attached -- \u003cb\u003eDO NOT\u003c/b\u003e view solutions before attempting the problems!\u003cbr\u003e\u003cbr\u003e\u003cb\u003eQuestion 1\u003c/b\u003e\u003cbr\u003eCreate a truth table for the following boolean expression: \u003cb\u003e!(a or b)\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eQuestion 2\u003c/b\u003e\u003cbr\u003eWrite a \u003ci\u003epublic static \u003c/i\u003emethod \u003ci\u003ecoinFlip()\u003c/i\u003e which accepts no arguments and\u003cb\u003e returns\u003c/b\u003e a \u003ci\u003eString\u003c/i\u003e. The method should simulate a 50 / 50 coin flip and return \u003ci\u003e\u0026#39;Heads\u0026#39;\u003c/i\u003e or \u003ci\u003e\u0026#39;Tails\u0026#39;\u003c/i\u003e. \u003cbr\u003e\u003cbr\u003e\u003cb\u003eQuestion 3\u003c/b\u003e\u003cbr\u003eWrite a \u003ci\u003epublic static \u003c/i\u003emethod\u003ci\u003e boxCars()\u003c/i\u003e which accepts no arguments and \u003cb\u003ereturns\u003c/b\u003e a \u003ci\u003eboolean\u003c/i\u003e. The function should roll two six-sided die and return \u003ci\u003etrue\u003c/i\u003e iff (if and only if) both die land on the number 6.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eQuestion 4\u003c/b\u003e\u003cbr\u003eDesign a \u003ci\u003eCake\u003c/i\u003e class. Your \u003ci\u003eCake\u003c/i\u003e class should include the following \u003ci\u003epublic\u003c/i\u003e data properties: \u003ci\u003eflavor\u003c/i\u003e, \u003ci\u003elayers\u003c/i\u003e, and \u003ci\u003eisBirthday\u003c/i\u003e. The \u003ci\u003eflavor\u003c/i\u003e property should represent the flavor of cake. The \u003ci\u003elayers\u003c/i\u003e property should represent how many layers the cake has. The \u003ci\u003eisBirthday\u003c/i\u003e property should represent if the \u003ci\u003eCake\u003c/i\u003e is a birthday cake or not.\u003cbr\u003e\u003cbr\u003eYour \u003ci\u003eCake\u003c/i\u003e class should implement a default constructor which creates a vanilla cake with three layers for a birthday. Your \u003ci\u003eCake\u003c/i\u003e class should also include a constructor which allows the user to customize all values.\u003cbr\u003e\u003cbr\u003eYour \u003ci\u003eCake\u003c/i\u003e class should include a \u003ci\u003epublic\u003c/i\u003e method\u003ci\u003e eat()\u003c/i\u003e which\u003cb\u003e returns\u003c/b\u003e a \u003ci\u003eString\u003c/i\u003e message. The message should include the \u003ci\u003eflavor\u003c/i\u003e and \u003ci\u003elayers\u003c/i\u003e. If the \u003ci\u003eCake\u003c/i\u003e is a birthday cake, the message should also include \u0026#39;Happy birthday!\u0026#39; \u003cbr\u003e\u003cbr\u003e---\u003cbr\u003e\u003cbr\u003eGood luck,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-11-20T15:20:12.814Z",
+    "updateTime": "2024-11-20T15:20:32.187Z",
+    "publicationTime": "2024-11-20T15:20:12.328Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://support.google.com/chromebook/answer/10474268?hl\u003den",
+        "title": "https://support.google.com/chromebook/answer/10474268?hl\u003den",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://support.google.com/chromebook/answer/10474268?hl%3Den"
+      }
+    }],
+    "announcement": {
+      "text": "Quiz Topics \u0026 Lab 3 Extension\n\nThe following topics will be covered on the November quiz which will take place on Tuesday, November 26th.\nDe Morgan\u0027s Laws\nRandom Number Generation, Math.random()\nWriting Methods\nOOP Concepts (classes vs. instances, constructor methods, data properties)\nThe quiz emphasizes free response questions which task you to write methods and design a class in Java. I strongly encourage you to practice writing methods and classes on paper to prepare for the quiz.\n\nAdditionally, the due date for Lab 3 has been extended to Wednesday, November 27th at 11.59pm. Remember to have your code pushed to GitHub and submit a link to your repository alongside a short, 30-second video demonstrating your game here on Google Classroom. You may use the screen recording feature of the Chromebook to accomplish this task (see the link below).\n\nBest of luck,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eQuiz Topics \u0026amp; Lab 3 Extension\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThe following topics will be covered on the November quiz which will take place on \u003cb\u003eTuesday, November 26th\u003c/b\u003e.\u003cul\u003e\u003cli\u003eDe Morgan\u0026#39;s Laws\u003c/li\u003e\u003cli\u003eRandom Number Generation, Math.random()\u003c/li\u003e\u003cli\u003eWriting Methods\u003c/li\u003e\u003cli\u003eOOP Concepts (classes vs. instances, constructor methods, data properties)\u003c/li\u003e\u003c/ul\u003eThe quiz emphasizes free response questions which task you to write methods and design a class in Java. I strongly encourage you to practice writing methods and classes on paper to prepare for the quiz.\u003cbr\u003e\u003cbr\u003eAdditionally, the due date for Lab 3 has been extended to \u003cb\u003eWednesday, November 27th at 11.59pm\u003c/b\u003e. \u003cb\u003eRemember to have your code pushed to GitHub and submit a link to your repository alongside a short, 30-second video demonstrating your game here on Google Classroom.\u003c/b\u003e You may use the screen recording feature of the Chromebook to accomplish this task (see the link below).\u003cbr\u003e\u003cbr\u003eBest of luck,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-11-10T23:37:53.066Z",
+    "updateTime": "2024-11-11T17:40:09.771Z",
+    "publicationTime": "2024-11-11T17:40:09.418Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://pradeesh-kumar.medium.com/how-to-display-emojis-in-java-6b629eeac90c",
+        "title": "410 Deleted by author — Medium",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://pradeesh-kumar.medium.com/how-to-display-emojis-in-java-6b629eeac90c"
+      }
+    }, {
+      "link": {
+        "url": "https://emojipedia.org/",
+        "title": "📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://emojipedia.org/"
+      }
+    }, {
+      "link": {
+        "url": "https://www.geeksforgeeks.org/image-processing-in-java-read-and-write/",
+        "title": "Image Processing in Java - Read and Write - GeeksforGeeks",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.geeksforgeeks.org/image-processing-in-java-read-and-write/"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1rrdnCPVWZtVYh7CNIudlYxO4pCwqpkDJ",
+          "title": "Screen Recording 2024-11-11 at 11.53.35 AM.mov",
+          "alternateLink": "https://drive.google.com/file/d/1rrdnCPVWZtVYh7CNIudlYxO4pCwqpkDJ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBND5xlS5vGzGnY1UtSO5WTNxFM_LF79tNTTa_HiqviOSbGcOj5bQCksVbi-ObPFJ8yzeErdoCGj7iFJaw1rPZIfbptwo_z6AqIz5YMeU1fOAQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "17duFX2lCck9bVPNIhVPTb2igX6OFUpHi",
+          "title": "Screen Recording 2024-11-11 at 12.07.35 PM.mov",
+          "alternateLink": "https://drive.google.com/file/d/17duFX2lCck9bVPNIhVPTb2igX6OFUpHi/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPrfItP78pA1-Fc35b7JmaES9-r9Q2P0x1zwGvtBZ4b3YpjIpJJdEaoF_5J9321otmb-hDtCmyI59ncWNwyvf2lIhUiVZWasQwcpnRfI482GQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "link": {
+        "url": "https://github.com/bmazey/st-saviour-dnd-java-fall-24",
+        "title": "GitHub - bmazey/st-saviour-dnd-java-fall-24: Bludgeons \u0026 Flagons III",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/bmazey/st-saviour-dnd-java-fall-24"
+      }
+    }],
+    "announcement": {
+      "text": "LAB 3: 🗡️🐍 BLUDGEONS \u0026 FLAGONS 💀🔥\n\nIn this lab students are tasked to build a simple text-based RPG in the spirit of Dungeons \u0026 Dragons.\n\nKey Concepts\nObject-Oriented Programming (classes \u0026 instances)\nMethods\nRandom Number Generators\nStudents may begin the lab by forking and cloning the following GitHub repository in VSCode: https://github.com/bmazey/st-saviour-dnd-java-fall-24\n\nGrading Criteria\nCreate a character by accepting user input for name and role (javautil Scanner). When generated, the character should have stats randomly assigned from a default stat array. The default stats are strength, dexterity, constitution, charisma, intelligence, and wisdom. The default stat array is [15, 14, 13, 12, 10, 8]. The character class should have a method which pretty prints the stat sheet at the beginning of the game. (30 points)\nThe class which contains the main method should also contain a generateMonster() method which accepts no arguments and returns an integer which represents the roll required to beat said monster. The method should randomly generate three different monsters by making print statements. The distribution of random monsters should be approximately 50% / 33.33% / 16.66% with the lesser likely monsters requiring higher rolls to beat. (25 points)\nThe player character class should contain a roll() method which accepts a buff as a String and simulates a 20-sided die (d20) roll. Before rolling against the monster, the user is prompted to add either the advantage or guidance buff. The user input is captured and provided to the player roll. The advantage buff rolls two d20s, draws both die results, and returns the higher of the two. The guidance buff adds an additional four-sided die (d4) to a d20 roll, draws both, and returns the result. (25 points)\nThe game should require at least three successful monster encounters for the player to succeed the campaign. If the player fails a roll at any point the game is over and a GAME OVER message is displayed; similarly, a winning message is displayed after a successful campaign. (15 points)\nIf the player rolls a 20 at any point the game displays CRITICAL SUCCESS. If the player rolls a 1 at any point the game displays CRITICAL FAILURE. You may ignore any corner-cases involving the guidance buff. (5 points)\nPlease see the short video attached for a demonstration of a working sample game.\n\nStudents may implement any of the following features for a +10 bonus:\nKeep It Classy -- The game only allows the player to select from a predefined list of playable roles.\nTake Initiative -- The game performs an extra roll before combat to determine if the player or if the monster goes first and prints the result. The monster rolls a d20 while player rolls a d20 + (dexterity / 2). \nLevel Up -- The player character level increases by 1 every time the player defeats a monster successfully. When the player levels up two additional stat points are randomly assigned and a message is printed to inform the player.\nStudents are expected to submit their labs by posting a link to their GitHub repository and a short demonstration video similar to the provided example video. \n\nYou are the Dungeon Master! Consider using the links in this post when adding flair to your Bludgeons \u0026 Flagons game.\n\nLAB DUE DATE: Friday, November 22nd @ 11.59pm EDT",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eLAB 3: 🗡️🐍 BLUDGEONS \u0026amp; FLAGONS 💀🔥\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eIn this lab students are tasked to build a simple text-based RPG in the spirit of Dungeons \u0026amp; Dragons.\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eKey Concepts\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eObject-Oriented Programming (classes \u0026amp; instances)\u003c/li\u003e\u003cli\u003eMethods\u003c/li\u003e\u003cli\u003eRandom Number Generators\u003c/li\u003e\u003c/ul\u003eStudents may begin the lab by forking and cloning the following GitHub repository in VSCode: https://github.com/bmazey/st-saviour-dnd-java-fall-24\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eGrading Criteria\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eCreate a character by\u003cb\u003e accepting user input for name and role\u003c/b\u003e (javautil Scanner). When generated, the character should have stats randomly assigned from a default stat array. The default stats are \u003cb\u003estrength, dexterity, constitution, charisma, intelligence, and wisdom\u003c/b\u003e. The default stat array is\u003cb\u003e [15, 14, 13, 12, 10, 8]\u003c/b\u003e. The character class should have a method which pretty prints the stat sheet at the beginning of the game. \u003cb\u003e(30 points)\u003c/b\u003e\u003c/li\u003e\u003cli\u003eThe class which contains the main method should also contain a \u003cb\u003egenerateMonster()\u003c/b\u003e method which accepts no arguments and \u003cb\u003ereturns an integer\u003c/b\u003e which represents the roll required to beat said monster. The method should \u003cb\u003erandomly generate three different monsters\u003c/b\u003e by making print statements. The distribution of random monsters should be approximately \u003cb\u003e50% / 33.33% / 16.66%\u003c/b\u003e with the lesser likely monsters requiring higher rolls to beat. \u003cb\u003e(25 points)\u003c/b\u003e\u003c/li\u003e\u003cli\u003eThe player character class should contain a \u003cb\u003eroll()\u003c/b\u003e method which \u003cb\u003eaccepts a buff as a String\u003c/b\u003e and simulates a 20-sided die (d20) roll. Before rolling against the monster, the user is prompted to add either the \u003cb\u003eadvantage\u003c/b\u003e or \u003cb\u003eguidance\u003c/b\u003e buff. The user input is captured and provided to the player roll. The advantage buff \u003cb\u003erolls two d20s\u003c/b\u003e, draws both die results, and returns the higher of the two. The guidance buff \u003cb\u003eadds an additional four-sided die (d4)\u003c/b\u003e to a d20 roll, draws both, and returns the result. \u003cb\u003e(25 points)\u003c/b\u003e\u003c/li\u003e\u003cli\u003eThe game should require \u003cb\u003eat least three successful monster encounters\u003c/b\u003e for the player to succeed the campaign. If the player fails a roll at any point the game is over and a \u003cb\u003eGAME OVER\u003c/b\u003e message is displayed; similarly, a winning message is displayed after a successful campaign. \u003cb\u003e(15 points)\u003c/b\u003e\u003c/li\u003e\u003cli\u003eIf the player \u003cb\u003erolls a 20\u003c/b\u003e at any point the game displays \u003cb\u003eCRITICAL SUCCESS\u003c/b\u003e. If the player \u003cb\u003erolls a 1 \u003c/b\u003eat any point the game displays \u003cb\u003eCRITICAL FAILURE\u003c/b\u003e. You may ignore any corner-cases involving the guidance buff. \u003cb\u003e(5 points)\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003ePlease see the short video attached for a demonstration of a working sample game.\u003cbr\u003e\u003cbr\u003eStudents may implement \u003cb\u003eany\u003c/b\u003e of the following features for a \u003cb\u003e+10 bonus\u003c/b\u003e:\u003cul\u003e\u003cli\u003e\u003cb\u003e\u003cu\u003eKeep It Classy\u003c/u\u003e\u003c/b\u003e -- The game only allows the player to select from a predefined list of playable roles.\u003c/li\u003e\u003cli\u003e\u003cb\u003e\u003cu\u003eTake Initiative\u003c/u\u003e\u003c/b\u003e -- The game performs an extra roll before combat to determine if the player or if the monster goes first and prints the result. The monster rolls a d20 while player rolls a d20 + (dexterity / 2). \u003c/li\u003e\u003cli\u003e\u003cb\u003e\u003cu\u003eLevel Up\u003c/u\u003e\u003c/b\u003e -- The player character level increases by 1 every time the player defeats a monster successfully. When the player levels up two additional stat points are randomly assigned and a message is printed to inform the player.\u003c/li\u003e\u003c/ul\u003e\u003cb\u003eStudents are expected to submit their labs by posting a link to their GitHub repository and a short demonstration video similar to the provided example video. \u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003ci\u003eYou\u003c/i\u003e \u003ci\u003eare the Dungeon Master!\u003c/i\u003e Consider using the links in this post when adding flair to your Bludgeons \u0026amp; Flagons game.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eLAB DUE DATE: Friday, November 22nd @ 11.59pm EDT\u003c/b\u003e\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-10-25T12:34:15.676Z",
+    "updateTime": "2024-10-25T13:55:46.508Z",
+    "publicationTime": "2024-10-25T12:34:15.399Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "October Quiz Topics\n\nThe following topics are fair game for the October quiz which will take place this coming Tuesday, October 29th.\nPrimitive arrays\nLoops (for, while, do-while)\nModulo\nIt is imperative that you fully understand the difference between an index variable and using an index variable to access content within an array (ex: i vs. numbers[i]). You should also be comfortable with problems that task you to \u0027resize\u0027 arrays using counting strategies. Topics such as conditional statements and other subjects which appeared on the September quiz may also reappear.\n\nThe quiz will consist of 10 questions each worth 5 points for a total of 50 points. There will be two free response questions which task you to write Java.\n\nBest of luck,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eOctober Quiz Topics\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThe following topics are fair game for the October quiz which will take place this coming Tuesday, October 29th.\u003cul\u003e\u003cli\u003ePrimitive arrays\u003c/li\u003e\u003cli\u003eLoops (for, while, do-while)\u003c/li\u003e\u003cli\u003eModulo\u003c/li\u003e\u003c/ul\u003e\u003cb\u003eIt is imperative that you fully understand the difference between an index variable and using an index variable to access content within an array\u003c/b\u003e (ex: i vs. numbers[i]). \u003cb\u003eYou should also be comfortable with problems that task you to \u0026#39;resize\u0026#39; arrays using counting strategies.\u003c/b\u003e Topics such as conditional statements and other subjects which appeared on the September quiz may also reappear.\u003cbr\u003e\u003cbr\u003eThe quiz will consist of 10 questions each worth 5 points for a total of 50 points. There will be two free response questions which task you to write Java.\u003cbr\u003e\u003cbr\u003eBest of luck,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-10-22T17:07:26.389Z",
+    "updateTime": "2024-10-22T17:07:26.359Z",
+    "publicationTime": "2024-10-22T17:07:26.043Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "AP Classroom Code\n\nHi all,\n\nIf you haven\u0027t already done so, please join AP Classroom using the following code:\n\nAD3LV4\n\nThank you,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eAP Classroom Code\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eHi all,\u003cbr\u003e\u003cbr\u003eIf you haven\u0026#39;t already done so, please join AP Classroom using the following code:\u003cbr\u003e\u003cbr\u003e\u003cb\u003eAD3LV4\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-10-11T15:52:23.333Z",
+    "updateTime": "2024-10-11T15:52:23.299Z",
+    "publicationTime": "2024-10-11T15:52:23.090Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://en.wikipedia.org/wiki/Binomial_coefficient",
+        "title": "Binomial coefficient - Wikipedia",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://en.wikipedia.org/wiki/Binomial_coefficient"
+      }
+    }],
+    "announcement": {
+      "text": "LAB 2: 😱 FEAR FACTOR 🎃\n\nIn this lab students are tasked to implement functions which manipulate arrays using loops in Java. Students are also tasked to implement a Fibonacci sequence recursively and/or dynamically.\n\nKey Concepts\nIteration (for, while, do while loops)\nArrays\nRecursion\nStudents are expected to submit their work in the form of a PR on GitHub. Recall that all PRs should be opened from a student lab branch against develop, not main! See my previous post for more information on the course repository.\n\nGrading Criteria\nTests \u0026 Correctness (70 points)\nDocumentation (15 points)\nStyle (10 points)\nPR (5 points)\nStudents may complete the binomial coefficient challenge AND associated tests for +10 bonus points. Please see the associated link for more information on how to compute the binomial coefficient. \n\nDUE DATE: Friday, October 25th @ 11.59pm EST",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eLAB 2: 😱 FEAR FACTOR 🎃\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eIn this lab students are tasked to implement functions which manipulate arrays using loops in Java. Students are also tasked to implement a Fibonacci sequence recursively and/or dynamically.\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eKey Concepts\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eIteration (for, while, do while loops)\u003c/li\u003e\u003cli\u003eArrays\u003c/li\u003e\u003cli\u003eRecursion\u003c/li\u003e\u003c/ul\u003eStudents are expected to submit their work in the form of a PR on GitHub. \u003cb\u003eRecall that all PRs should be opened from a student lab branch against develop, not main! \u003c/b\u003eSee my previous post for more information on the course repository.\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eGrading Criteria\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eTests \u0026amp; Correctness (70 points)\u003c/li\u003e\u003cli\u003eDocumentation (15 points)\u003c/li\u003e\u003cli\u003eStyle (10 points)\u003c/li\u003e\u003cli\u003ePR (5 points)\u003c/li\u003e\u003c/ul\u003e\u003cb\u003eStudents may complete the binomial coefficient challenge AND associated tests for +10 bonus points. \u003c/b\u003ePlease see the associated link for more information on how to compute the binomial coefficient. \u003cbr\u003e\u003cbr\u003e\u003cb\u003eDUE DATE: Friday, October 25th @ 11.59pm EST\u003c/b\u003e\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-10-07T09:54:00.396Z",
+    "updateTime": "2024-10-07T09:54:00.365Z",
+    "publicationTime": "2024-10-07T09:54:00.042Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Iteration Review Problems\n\nHi all,\n\nI am out sick today; I intend to be back in class tomorrow. Please use our time today to answer the following questions -- we will review the solutions tomorrow. I encourage you to hand write them first, and then test the soluitions in VSCode rather than writing them directly in VSCode.\nWrite two, separate loops which each print every multiple of 5 from 0 - 100 (inclusive). Only one of your loops should leverage modulo.\nWrite a loop which prints the numbers 0 - 9 (inclusive) ten separate times. Your loop should indicate when one 0 - 9 iteration ends and the next begins.\n\nReconsider the palindrome problem from Lab 1 -- are you able to solve this problem using a standard for loop?\n\n\nGood luck!\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eIteration Review Problems\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eHi all,\u003cbr\u003e\u003cbr\u003eI am out sick today; I intend to be back in class tomorrow. Please use our time today to answer the following questions -- we will review the solutions tomorrow. \u003cb\u003eI encourage you to hand write them first, and then test the soluitions in VSCode rather than writing them directly in VSCode.\u003c/b\u003e\u003cul\u003e\u003cli\u003eWrite two, separate loops which each print every multiple of 5 from 0 - 100 (inclusive). Only one of your loops should leverage modulo.\u003c/li\u003e\u003cli\u003eWrite a loop which prints the numbers 0 - 9 (inclusive) ten separate times. Your loop should indicate when one 0 - 9 iteration ends and the next begins.\u003c/li\u003e\u003cli\u003e\u003cbr\u003eReconsider the palindrome problem from Lab 1 -- are you able to solve this problem using a standard for loop?\u003cbr\u003e\u003cbr\u003e\u003c/li\u003e\u003c/ul\u003eGood luck!\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-09-27T11:51:27.174Z",
+    "updateTime": "2024-09-27T11:51:27.140Z",
+    "publicationTime": "2024-09-27T11:51:26.808Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "September Quiz Topics\n\nThe following topics are fair game for our September quiz which will take place (ironically) on Tuesday, October 1st.\nPrimitive data types (int, double, char, boolean)\nTruth tables (AND, OR)\nStrings (charAt, length, both substring, \u0026 equals methods)\nBinary numbers\nConditional statements\nMeasurements of equality\nError families\nThe quiz will be physical paper format. You will have the entire class period to complete the quiz. You will be asked at least one question which involves writing Java.\n\nWe will host a review in class on Monday -- please come prepared to take notes and do exercises on the board.\n\nGood luck,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eSeptember Quiz Topics\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThe following topics are fair game for our September quiz which will take place (ironically) on \u003cb\u003eTuesday, October 1st\u003c/b\u003e.\u003cul\u003e\u003cli\u003ePrimitive data types (int, double, char, boolean)\u003c/li\u003e\u003cli\u003eTruth tables (AND, OR)\u003c/li\u003e\u003cli\u003eStrings (charAt, length, \u003cb\u003eboth\u003c/b\u003e substring, \u0026amp; equals methods)\u003c/li\u003e\u003cli\u003eBinary numbers\u003c/li\u003e\u003cli\u003eConditional statements\u003c/li\u003e\u003cli\u003eMeasurements of equality\u003c/li\u003e\u003cli\u003eError families\u003c/li\u003e\u003c/ul\u003eThe quiz will be physical paper format. You will have the entire class period to complete the quiz. \u003cb\u003eYou will be asked at least one question which involves writing Java.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eWe will host a review in class on Monday -- please come prepared to take notes and do exercises on the board.\u003cbr\u003e\u003cbr\u003eGood luck,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-09-13T15:50:29.154Z",
+    "updateTime": "2024-09-13T15:50:29.117Z",
+    "publicationTime": "2024-09-13T15:50:28.896Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://www.oracle.com/technetwork/java/codeconventions-150003.pdf"
+      }
+    }, {
+      "link": {
+        "url": "https://google.github.io/styleguide/javaguide.html",
+        "title": "Google Java Style Guide",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://google.github.io/styleguide/javaguide.html"
+      }
+    }],
+    "announcement": {
+      "text": "Official Java Style Guide(s)\n\nHi all,\n\nPlease refer to the official Java style guides linked below. You may choose to use either style, but your lab submissions must reflect a single, consistent style for full credit.\n\nThank you,\n\nMr. Mazey",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eOfficial Java Style Guide(s)\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eHi all,\u003cbr\u003e\u003cbr\u003ePlease refer to the official Java style guides linked below. \u003cb\u003eYou may choose to use either style, but your lab submissions must reflect a single, consistent style for full credit.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-09-13T15:46:23.098Z",
+    "updateTime": "2024-09-13T18:25:36.980Z",
+    "publicationTime": "2024-09-13T15:46:22.856Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "LAB 1: ACE THE INTERVIEW\n\nIn this lab exercise students will be tasked to solve coding challenges commonly presented in professional (junior) software engineering roles.\n\nKey Concepts\nData Types\nConditional Statements\nModulo\nRandom Integers\nStrings\nMeasurements of Equality\nStudents must submit their work in the form of a pull request on our course GitHub repository. Please see my previous post for more information on the course repository.\n\nGrading Criteria\nTests \u0026 Correctness (70 points)\nStyle (20 points)\nDocumentation (10 points)\nA palindrome is a word that is spelled correctly in both forward and reverse order. Students may receive 10 additional bonus points for a correct palindrome detector implementation (see course repository for more details).\n\nDUE DATE: Friday, September 27th at 11:59pm",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eLAB 1: ACE THE INTERVIEW\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eIn this lab exercise students will be tasked to solve coding challenges commonly presented in professional (junior) software engineering roles.\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eKey Concepts\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eData Types\u003c/li\u003e\u003cli\u003eConditional Statements\u003c/li\u003e\u003cli\u003eModulo\u003c/li\u003e\u003cli\u003eRandom Integers\u003c/li\u003e\u003cli\u003eStrings\u003c/li\u003e\u003cli\u003eMeasurements of Equality\u003c/li\u003e\u003c/ul\u003eStudents must submit their work in the form of a pull request on our course GitHub repository. Please see my previous post for more information on the course repository.\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003ci\u003eGrading Criteria\u003c/i\u003e\u003c/b\u003e\u003cul\u003e\u003cli\u003eTests \u0026amp; Correctness (70 points)\u003c/li\u003e\u003cli\u003eStyle (20 points)\u003c/li\u003e\u003cli\u003eDocumentation (10 points)\u003c/li\u003e\u003c/ul\u003eA palindrome is a word that is spelled correctly in both forward and reverse order. \u003cb\u003eStudents may receive 10 additional bonus points for a correct palindrome detector implementation\u003c/b\u003e (see course repository for more details).\u003cbr\u003e\u003cbr\u003e\u003cb\u003eDUE DATE: Friday, September 27th at 11:59pm\u003c/b\u003e\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-09-04T15:55:02.267Z",
+    "updateTime": "2024-09-06T00:21:31.768Z",
+    "publicationTime": "2024-09-04T15:55:02.002Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "youtubeVideo": {
+        "id": "1ji9jCzGdG8",
+        "title": "How to Install Java on a Chromebook",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d1ji9jCzGdG8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1ji9jCzGdG8/default.jpg"
+      }
+    }],
+    "announcement": {
+      "text": "VSCode Chromebook Setup\n\nCourse lab content will be completed with VSCode IDE. If you do not already have a GitHub account, please see the previous post on course repository before continuing.\n\nStart by activating the Linux subsystem in ChromeOS. This can be done by navigating to ...\n\nSettings (the grey cog) \u003e Advanced (the dropdown at the bottom) \u003e Developers \u003e \"Turn On\"\n\nUse all recommended settings (including the 10Gb disk size) when activating the Linux subsystem.\n\nNext launch the Penguin Terminal. This should become available either in the same Developers menu or accessible as an app on the start menu. It may also launch automatically after enabling Linux.\n\nRun the following commands ... \n\nsudo apt-get update \u0026\u0026 sudo apt-get dist-upgrade -y\n\nsudo apt install default-jdk\n\nThe first command updates the Linux package manager indices, and the second installs Java. Please see the YouTube video linked below if you are having trouble installing Java. Verify java is installed by running the following command:\n\njava -version\n\nInstall Git next by executing the following command:\n\nsudo apt install git-all\n\nVerify Git is installed by running the following command (note the double dash in the command):\n\ngit --version\n\nNow on to VSCode. Please follow the steps provided in the following link to install VSCode on the Chromebook. DO NOT INSTALL NPM -- you may stop after the \"Install VSCode\" section, DO NOT continue on to the Javascript \u0026 Node.js section.\n\nInstall VSCode: https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started\n\nYou are good to go as long as you are able to start VSCode on the Chromebook. You may choose to clone the class repository given the information in the previous post, but we will do this step together in class.\n\nPlease feel free to email me with any questions you may have; thank you,\n\nMr. Mazey\nmazey.b@stsaviour.org",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eVSCode Chromebook Setup\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eCourse lab content will be completed with VSCode IDE. \u003cb\u003eIf you do not already have a GitHub account, please see the previous post on course repository before continuing.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eStart by activating the Linux subsystem in ChromeOS. This can be done by navigating to ...\u003cbr\u003e\u003cbr\u003eSettings (the grey cog) \u0026gt; Advanced (the dropdown at the bottom) \u0026gt; Developers \u0026gt; \u0026quot;Turn On\u0026quot;\u003cbr\u003e\u003cbr\u003eUse all recommended settings (including the 10Gb disk size) when activating the Linux subsystem.\u003cbr\u003e\u003cbr\u003eNext launch the Penguin Terminal. This should become available either in the same Developers menu or accessible as an app on the start menu. It may also launch automatically after enabling Linux.\u003cbr\u003e\u003cbr\u003eRun the following commands ... \u003cbr\u003e\u003cbr\u003e\u003cb\u003esudo apt-get update \u0026amp;\u0026amp; sudo apt-get dist-upgrade -y\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003esudo apt install default-jdk\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThe first command updates the Linux package manager indices, and the second installs Java. Please see the YouTube video linked below if you are having trouble installing Java. Verify java is installed by running the following command:\u003cbr\u003e\u003cbr\u003e\u003cb\u003ejava -version\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eInstall Git next by executing the following command:\u003cbr\u003e\u003cbr\u003e\u003cb\u003esudo apt install git-all\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eVerify Git is installed by running the following command (note the double dash in the command):\u003cbr\u003e\u003cbr\u003e\u003cb\u003egit --version\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eNow on to VSCode. Please follow the steps provided in the following link to install VSCode on the Chromebook. \u003cb\u003eDO NOT INSTALL NPM\u003c/b\u003e -- you may stop after the \u0026quot;Install VSCode\u0026quot; section, DO NOT continue on to the Javascript \u0026amp; Node.js section.\u003cbr\u003e\u003cbr\u003eInstall VSCode: https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started\u003cbr\u003e\u003cbr\u003eYou are good to go as long as you are able to start VSCode on the Chromebook. You may choose to clone the class repository given the information in the previous post, but we will do this step together in class.\u003cbr\u003e\u003cbr\u003ePlease feel free to email me with any questions you may have; thank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003cbr\u003emazey.b@stsaviour.org\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-08-31T21:07:55.339Z",
+    "updateTime": "2024-08-31T21:13:27.405Z",
+    "publicationTime": "2024-08-31T21:07:54.979Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://github.com/bmazey/st-saviour-java-fall-2024",
+        "title": "GitHub - bmazey/st-saviour-java-fall-2024: St. Saviour High School, AP Computer Science A, Fall 2024",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com/bmazey/st-saviour-java-fall-2024"
+      }
+    }, {
+      "link": {
+        "url": "https://github.com",
+        "title": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://github.com"
+      }
+    }],
+    "announcement": {
+      "text": "Course Repository\n\nWe\u0027ll be using the GitHub repository linked below for first and second quarter. Please create a GitHub account if you do not have one already; you may use either your personal or SSHS email to create the account. I encourage you to consider a resume-appropriate username.\n\nOnce you have created an account please email me your GitHub username so I may add you to the repository as a collaborator.\n\nThank you,\n\nMr. Mazey\nmazey.b@stsaviour.org",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eCourse Repository\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eWe\u0026#39;ll be using the GitHub repository linked below for first and second quarter. Please create a GitHub account if you do not have one already; you may use either your personal or SSHS email to create the account. I encourage you to consider a resume-appropriate username.\u003cbr\u003e\u003cbr\u003eOnce you have created an account\u003cb\u003e please email me your GitHub username\u003c/b\u003e so I may add you to the repository as a collaborator.\u003cbr\u003e\u003cbr\u003eThank you,\u003cbr\u003e\u003cbr\u003eMr. Mazey\u003cbr\u003emazey.b@stsaviour.org\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Brandon Mazey"
+      },
+      "emailAddress": "mazey.b@stsaviour.org"
+    },
+    "creationTime": "2024-08-31T20:19:16.337Z",
+    "updateTime": "2024-08-31T20:28:41.625Z",
+    "publicationTime": "2024-08-31T20:19:13.932Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "12537rTudvoUuwvPajdcdA6O_Sur8DlNt",
+          "title": "Java Text - Liang.pdf",
+          "alternateLink": "https://drive.google.com/file/d/12537rTudvoUuwvPajdcdA6O_Sur8DlNt/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPWFFZF0BCUUTcSdYxsZDWWWGPLC7TmVDzvD777GE2WjsdeQx6QEXCbF1lxcGAQIij1T5tjwvoZhCjuElY9OAJUidlMSRGpENgPuErV4tD_RQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1EXOYVG1B_XEjcPe_4ckjg8115A67r4px",
+          "title": "ap-computer-science-a-course-and-exam-description.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1EXOYVG1B_XEjcPe_4ckjg8115A67r4px/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOEZuSKe3BcLFtDCIrxctro55h8q49qz-x2NXfTJ0BE4GHocv3hcewLzX6-ZliUJYzoIZCy2RByH9OrzH4Hnq7t-cV-lJpwpN722M9gqw9-gQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "announcement": {
+      "text": "Course Text \u0026 Syllabus\n\nWelcome! Please find a digital copy of the Liang text and AP CED below. Physical copies of Liang are available as well. \n\nMr. Mazey\nmazey.b@stsaviour.org",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003e\u003cu\u003eCourse Text \u0026amp; Syllabus\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eWelcome! Please find a digital copy of the Liang text and AP CED below. Physical copies of Liang are available as well. \u003cbr\u003e\u003cbr\u003eMr. Mazey\u003cbr\u003emazey.b@stsaviour.org\u003c/div\u003e"
+    }
+  }]
+}
